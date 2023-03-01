@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{24E23A41-B9EB-4210-91D1-95D6A4B75880}" SchemaVersion="97">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{24E23A41-B9EB-4210-91D1-95D6A4B75880}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<ReferenceList>
+						<Reference Name="AudioDevice">
+							<ObjectRef Name="System" ID="{98280F80-54CF-4B6B-928B-BC724D85125C}" WorkUnitID="{FCB0D6D2-9914-4876-AF1F-6F2DB2688A69}"/>
+						</Reference>
+					</ReferenceList>
+				</Bus>
+				<Bus Name="Motion Factory Bus" ID="{2AF9B9C6-6EF1-46E9-B5F2-E30C9E602C74}">
+					<ReferenceList>
+						<Reference Name="AudioDevice">
+							<ObjectRef Name="Default_Motion_Device" ID="{8B0BF03E-6C40-4402-9E45-FF34750CBB2C}" WorkUnitID="{FCB0D6D2-9914-4876-AF1F-6F2DB2688A69}"/>
+						</Reference>
+					</ReferenceList>
+				</Bus>
+				<WorkUnit Name="Hitman" ID="{E9E0E3B4-8CEE-452B-B1AD-A10AB6C4B411}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>

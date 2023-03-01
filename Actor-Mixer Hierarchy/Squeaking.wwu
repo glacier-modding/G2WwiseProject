@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0BA37386-06F1-420D-9DD0-4BF88B2D28F3}" SchemaVersion="97" RootDocumentID="{BA84AB6F-D4EE-443A-8BCA-D0CEA07575D4}">
+	<AudioObjects>
+		<WorkUnit Name="Squeaking" ID="{0BA37386-06F1-420D-9DD0-4BF88B2D28F3}" OwnerID="{BA84AB6F-D4EE-443A-8BCA-D0CEA07575D4}" PersistMode="Nested">
+			<ChildrenList>
+				<Sound Name="Squeak" ID="{BC4D8B90-892F-454F-98F6-5D816D173EDF}" ShortID="663186328">
+					<PropertyList>
+						<Property Name="IsStreamingEnabled" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C2AE085-1B72-410A-B4B1-A87D3834E8AB}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{24E23A41-B9EB-4210-91D1-95D6A4B75880}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="squeak" ID="{E3C764E7-4D5E-4315-A445-03B869BD57A7}">
+							<Language>SFX</Language>
+							<AudioFile>squeak.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="28141659"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="squeak" ID="{E3C764E7-4D5E-4315-A445-03B869BD57A7}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

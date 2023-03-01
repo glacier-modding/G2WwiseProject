@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A6081007-4699-444A-B861-9C1920950A89}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Bus_Mixing_Events" ID="{A6081007-4699-444A-B861-9C1920950A89}" PersistMode="Standalone"/>
+	</Events>
+</WwiseDocument>
