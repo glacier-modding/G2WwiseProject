@@ -1,0 +1,5 @@
+# WWise
+.cache
+GeneratedSoundBanks
+*.wsettings
+*.validationcache
