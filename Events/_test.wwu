@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D6037D0B-D3BE-46B9-8721-AB9247816E80}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="_test" ID="{D6037D0B-D3BE-46B9-8721-AB9247816E80}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="beep" ID="{5BB362B5-8606-4446-B0F7-6E9F02106499}" PersistMode="Reference"/>
+				<WorkUnit Name="counting" ID="{72377C17-20C6-4D9F-B976-57664E1823A6}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

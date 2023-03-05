@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3B73A697-0158-4D57-9AA9-647741FC6F59}" SchemaVersion="97" RootDocumentID="{CCB57599-8182-4669-8532-B38E00676872}">
+	<AudioObjects>
+		<WorkUnit Name="counting" ID="{3B73A697-0158-4D57-9AA9-647741FC6F59}" OwnerID="{CCB57599-8182-4669-8532-B38E00676872}" PersistMode="Nested">
+			<ChildrenList>
+				<Sound Name="1" ID="{CA986401-CFEE-4344-8A36-CD6605467263}" ShortID="631905820">
+					<PropertyList>
+						<Property Name="IsStreamingEnabled" Type="bool">
+							<ValueList>
+								<Value>False</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C2AE085-1B72-410A-B4B1-A87D3834E8AB}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{24E23A41-B9EB-4210-91D1-95D6A4B75880}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="1" ID="{AD47F0B0-9727-4953-BF3B-6C32FDB30AFD}">
+							<Language>SFX</Language>
+							<AudioFile>1.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="1019293845"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="1" ID="{AD47F0B0-9727-4953-BF3B-6C32FDB30AFD}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="2" ID="{AB8B36D9-B7C6-464F-86BA-B0142739A7BA}" ShortID="334219489">
+					<PropertyList>
+						<Property Name="IsStreamingEnabled" Type="bool">
+							<ValueList>
+								<Value>False</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C2AE085-1B72-410A-B4B1-A87D3834E8AB}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{24E23A41-B9EB-4210-91D1-95D6A4B75880}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="2" ID="{E7C60F6D-F44F-4BC8-A046-77356FB95430}">
+							<Language>SFX</Language>
+							<AudioFile>2.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="557967391"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="2" ID="{E7C60F6D-F44F-4BC8-A046-77356FB95430}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="3" ID="{0300160A-4FEE-47C6-948D-71D433B5CD34}" ShortID="691376500">
+					<PropertyList>
+						<Property Name="IsStreamingEnabled" Type="bool">
+							<ValueList>
+								<Value>False</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C2AE085-1B72-410A-B4B1-A87D3834E8AB}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{24E23A41-B9EB-4210-91D1-95D6A4B75880}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="3" ID="{8AE35E94-C4F1-4DD8-855C-8FFA9861656A}">
+							<Language>SFX</Language>
+							<AudioFile>3.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="766137847"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="3" ID="{8AE35E94-C4F1-4DD8-855C-8FFA9861656A}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="4" ID="{4881853F-25FF-40B9-97B8-882F73C47398}" ShortID="843700180">
+					<PropertyList>
+						<Property Name="IsStreamingEnabled" Type="bool">
+							<ValueList>
+								<Value>False</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C2AE085-1B72-410A-B4B1-A87D3834E8AB}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{24E23A41-B9EB-4210-91D1-95D6A4B75880}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="4" ID="{975A3652-4953-47A8-8195-EEFD892FE68B}">
+							<Language>SFX</Language>
+							<AudioFile>4.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="729457789"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="4" ID="{975A3652-4953-47A8-8195-EEFD892FE68B}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="5" ID="{88E344C4-1AAF-4586-A585-E47664559F36}" ShortID="35411091">
+					<PropertyList>
+						<Property Name="IsStreamingEnabled" Type="bool">
+							<ValueList>
+								<Value>False</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C2AE085-1B72-410A-B4B1-A87D3834E8AB}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{24E23A41-B9EB-4210-91D1-95D6A4B75880}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="5" ID="{F23C29EC-86AD-41CE-8D24-705F19203599}">
+							<Language>SFX</Language>
+							<AudioFile>5.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="463023981"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="5" ID="{F23C29EC-86AD-41CE-8D24-705F19203599}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

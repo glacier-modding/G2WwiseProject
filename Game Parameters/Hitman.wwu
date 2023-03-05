@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{084B74FD-9418-49D1-B5B7-653BA40937E0}" SchemaVersion="97">
+	<GameParameters>
+		<WorkUnit Name="Hitman" ID="{084B74FD-9418-49D1-B5B7-653BA40937E0}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="RTPC_AMB_Gain" ID="{790BD0DC-B7D7-40E4-B08F-DFCEBB7FF352}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

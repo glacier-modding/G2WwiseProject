@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CCB57599-8182-4669-8532-B38E00676872}" SchemaVersion="97">
+	<AudioObjects>
+		<WorkUnit Name="_test" ID="{CCB57599-8182-4669-8532-B38E00676872}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="beep" ID="{0952A6C1-E682-4F86-9A33-7CE254B2A6FF}" PersistMode="Reference"/>
+				<WorkUnit Name="counting" ID="{3B73A697-0158-4D57-9AA9-647741FC6F59}" PersistMode="Reference"/>
+				<WorkUnit Name="counting_mixed" ID="{48EE9627-988B-40FC-893F-4EB8033CCD1D}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

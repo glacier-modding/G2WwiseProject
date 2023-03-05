@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5BB362B5-8606-4446-B0F7-6E9F02106499}" SchemaVersion="97" RootDocumentID="{D6037D0B-D3BE-46B9-8721-AB9247816E80}">
+	<Events>
+		<WorkUnit Name="beep" ID="{5BB362B5-8606-4446-B0F7-6E9F02106499}" OwnerID="{D6037D0B-D3BE-46B9-8721-AB9247816E80}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="Play_beep_memory" ID="{8F005B14-A3F0-45A5-9DE1-C1FE8D8CC7CC}">
+					<ChildrenList>
+						<Action Name="" ID="{DB8E438D-4368-4895-BF1A-0D67B963596A}" ShortID="1008498265">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="beep_memory" ID="{B186BB89-ED08-4066-8217-5D8A42B0B37F}" WorkUnitID="{0952A6C1-E682-4F86-9A33-7CE254B2A6FF}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_beep_streamed" ID="{00C784CB-6030-4F71-BA17-192B5FCA0F82}">
+					<ChildrenList>
+						<Action Name="" ID="{24054AA8-7AF3-4C9D-8606-53D60AAC8E96}" ShortID="558567960">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="beep_streamed" ID="{7D748B12-8C7F-4936-9939-D76BE8B61DEE}" WorkUnitID="{0952A6C1-E682-4F86-9A33-7CE254B2A6FF}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_beep_prefetched" ID="{66F664C1-7EE4-4D81-94A2-8D30A24C1E22}">
+					<ChildrenList>
+						<Action Name="" ID="{62BAAA85-8863-49D7-B1EA-A448E53D88AA}" ShortID="147796999">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="beep_prefetched" ID="{123ED66D-4600-4832-B6E9-6A3DAAB3149D}" WorkUnitID="{0952A6C1-E682-4F86-9A33-7CE254B2A6FF}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

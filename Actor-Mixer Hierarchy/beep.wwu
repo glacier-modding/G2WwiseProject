@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0952A6C1-E682-4F86-9A33-7CE254B2A6FF}" SchemaVersion="97" RootDocumentID="{CCB57599-8182-4669-8532-B38E00676872}">
+	<AudioObjects>
+		<WorkUnit Name="beep" ID="{0952A6C1-E682-4F86-9A33-7CE254B2A6FF}" OwnerID="{CCB57599-8182-4669-8532-B38E00676872}" PersistMode="Nested">
+			<ChildrenList>
+				<Sound Name="beep_prefetched" ID="{123ED66D-4600-4832-B6E9-6A3DAAB3149D}" ShortID="99660528">
+					<PropertyList>
+						<Property Name="IsZeroLantency" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C2AE085-1B72-410A-B4B1-A87D3834E8AB}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{24E23A41-B9EB-4210-91D1-95D6A4B75880}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="beep_prefetched" ID="{F34DD5DD-EC48-4209-9B79-0C1987EE66E8}">
+							<Language>SFX</Language>
+							<AudioFile>beep_prefetched.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="1042032414"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="beep_prefetched" ID="{F34DD5DD-EC48-4209-9B79-0C1987EE66E8}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="beep_streamed" ID="{7D748B12-8C7F-4936-9939-D76BE8B61DEE}" ShortID="808917875">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C2AE085-1B72-410A-B4B1-A87D3834E8AB}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{24E23A41-B9EB-4210-91D1-95D6A4B75880}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="beep_streamed" ID="{C4E39B68-7F09-44B6-87A7-12DD32CA51C4}">
+							<Language>SFX</Language>
+							<AudioFile>beep_streamed.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="337628255"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="beep_streamed" ID="{C4E39B68-7F09-44B6-87A7-12DD32CA51C4}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="beep_memory" ID="{B186BB89-ED08-4066-8217-5D8A42B0B37F}" ShortID="381120703">
+					<PropertyList>
+						<Property Name="IsZeroLantency" Type="bool">
+							<ValueList>
+								<Value>True</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C2AE085-1B72-410A-B4B1-A87D3834E8AB}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{24E23A41-B9EB-4210-91D1-95D6A4B75880}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="beep_memory" ID="{7E889A32-DCE2-404D-ABDC-7F65E3385415}">
+							<Language>SFX</Language>
+							<AudioFile>beep_memory.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="912290260"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="beep_memory" ID="{7E889A32-DCE2-404D-ABDC-7F65E3385415}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

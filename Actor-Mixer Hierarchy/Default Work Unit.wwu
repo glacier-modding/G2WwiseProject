@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{BA84AB6F-D4EE-443A-8BCA-D0CEA07575D4}" SchemaVersion="97">
 	<AudioObjects>
-		<WorkUnit Name="Default Work Unit" ID="{BA84AB6F-D4EE-443A-8BCA-D0CEA07575D4}" PersistMode="Standalone">
-			<ChildrenList>
-				<WorkUnit Name="Squeaking" ID="{0BA37386-06F1-420D-9DD0-4BF88B2D28F3}" PersistMode="Reference"/>
-			</ChildrenList>
-		</WorkUnit>
+		<WorkUnit Name="Default Work Unit" ID="{BA84AB6F-D4EE-443A-8BCA-D0CEA07575D4}" PersistMode="Standalone"/>
 	</AudioObjects>
 </WwiseDocument>

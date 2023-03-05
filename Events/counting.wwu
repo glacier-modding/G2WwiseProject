@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{72377C17-20C6-4D9F-B976-57664E1823A6}" SchemaVersion="97" RootDocumentID="{D6037D0B-D3BE-46B9-8721-AB9247816E80}">
+	<Events>
+		<WorkUnit Name="counting" ID="{72377C17-20C6-4D9F-B976-57664E1823A6}" OwnerID="{D6037D0B-D3BE-46B9-8721-AB9247816E80}" PersistMode="Nested">
+			<ChildrenList>
+				<Event Name="Play_counting" ID="{01455657-DB26-4771-B015-32EDFDBA4B6D}">
+					<ChildrenList>
+						<Action Name="" ID="{BF497A6C-449C-4BAA-AE71-AA93F56A616C}" ShortID="759554386">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="1" ID="{CA986401-CFEE-4344-8A36-CD6605467263}" WorkUnitID="{3B73A697-0158-4D57-9AA9-647741FC6F59}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{84026FB6-B17C-421D-B625-1AAC5A0189FB}" ShortID="615616749">
+							<PropertyList>
+								<Property Name="Delay" Type="Real64" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="2" ID="{AB8B36D9-B7C6-464F-86BA-B0142739A7BA}" WorkUnitID="{3B73A697-0158-4D57-9AA9-647741FC6F59}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{406F09E0-9794-49CF-BA13-1A4B6BB24056}" ShortID="359064749">
+							<PropertyList>
+								<Property Name="Delay" Type="Real64" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="3" ID="{0300160A-4FEE-47C6-948D-71D433B5CD34}" WorkUnitID="{3B73A697-0158-4D57-9AA9-647741FC6F59}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{17069F4F-ECEE-4415-A9FC-64C5719A4DB9}" ShortID="40049647">
+							<PropertyList>
+								<Property Name="Delay" Type="Real64" Value="3"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="4" ID="{4881853F-25FF-40B9-97B8-882F73C47398}" WorkUnitID="{3B73A697-0158-4D57-9AA9-647741FC6F59}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{C647DAAE-1CD9-4B77-B254-8CCBEEE70CB0}" ShortID="806710958">
+							<PropertyList>
+								<Property Name="Delay" Type="Real64" Value="4"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="5" ID="{88E344C4-1AAF-4586-A585-E47664559F36}" WorkUnitID="{3B73A697-0158-4D57-9AA9-647741FC6F59}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_counting_streamed_prefetched" ID="{C213C56A-546A-4252-8DB2-76ABA10EAECE}">
+					<ChildrenList>
+						<Action Name="" ID="{2927D4B5-9FBF-4562-8EB4-22FCF9117051}" ShortID="249945992">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="2_streamed" ID="{41CC1E78-D730-4B5F-AB8F-91A2F944590F}" WorkUnitID="{48EE9627-988B-40FC-893F-4EB8033CCD1D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{30C5BB55-DD41-4EF7-A9EF-5E2A70F5982B}" ShortID="634746506">
+							<PropertyList>
+								<Property Name="Delay" Type="Real64" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="3_prefetched" ID="{F31D81B2-C98A-4AC2-A85F-29547AD5C879}" WorkUnitID="{48EE9627-988B-40FC-893F-4EB8033CCD1D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{AFD1FCB6-6726-475F-9628-319642567C88}" ShortID="295628478">
+							<PropertyList>
+								<Property Name="Delay" Type="Real64" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="4_streamed" ID="{1C536BC5-7E1F-49CF-947B-E560B00007F0}" WorkUnitID="{48EE9627-988B-40FC-893F-4EB8033CCD1D}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

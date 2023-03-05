@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{EF3AC812-4B8F-46A6-990A-F41E36D67FDD}" SchemaVersion="97">
 	<SoundBanks>
-		<WorkUnit Name="Default Work Unit" ID="{EF3AC812-4B8F-46A6-990A-F41E36D67FDD}" PersistMode="Standalone">
-			<ChildrenList>
-				<SoundBank Name="Modded" ID="{F407D5DF-0720-497A-B21D-6B8B16EE3908}">
-					<ObjectInclusionList>
-						<ObjectRef Name="Play_squeak" ID="{1FAFCAAF-EDEC-40C1-96BB-F51A9951C576}" WorkUnitID="{C9CF217C-D8DD-4203-8E02-1899BB523888}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="Stop_squeak" ID="{9FF7329A-6394-4AD7-BCC4-B96703402619}" WorkUnitID="{C9CF217C-D8DD-4203-8E02-1899BB523888}" Origin="Manual" Filter="7"/>
-					</ObjectInclusionList>
-					<ObjectExclusionList/>
-					<GameSyncExclusionList/>
-				</SoundBank>
-			</ChildrenList>
-		</WorkUnit>
+		<WorkUnit Name="Default Work Unit" ID="{EF3AC812-4B8F-46A6-990A-F41E36D67FDD}" PersistMode="Standalone"/>
 	</SoundBanks>
 </WwiseDocument>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F656736B-4184-4D38-9A42-29CCB21BFDA5}" SchemaVersion="97">
+	<SoundBanks>
+		<WorkUnit Name="GlobalData" ID="{F656736B-4184-4D38-9A42-29CCB21BFDA5}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Example_Soundbank" ID="{F407D5DF-0720-497A-B21D-6B8B16EE3908}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_counting_streamed_prefetched" ID="{C213C56A-546A-4252-8DB2-76ABA10EAECE}" WorkUnitID="{72377C17-20C6-4D9F-B976-57664E1823A6}" Origin="Manual" Filter="3"/>
+						<ObjectRef Name="Play_beep_memory" ID="{8F005B14-A3F0-45A5-9DE1-C1FE8D8CC7CC}" WorkUnitID="{5BB362B5-8606-4446-B0F7-6E9F02106499}" Origin="Manual" Filter="3"/>
+						<ObjectRef Name="Play_counting" ID="{01455657-DB26-4771-B015-32EDFDBA4B6D}" WorkUnitID="{72377C17-20C6-4D9F-B976-57664E1823A6}" Origin="Manual" Filter="3"/>
+						<ObjectRef Name="Play_beep_prefetched" ID="{66F664C1-7EE4-4D81-94A2-8D30A24C1E22}" WorkUnitID="{5BB362B5-8606-4446-B0F7-6E9F02106499}" Origin="Manual" Filter="3"/>
+						<ObjectRef Name="Play_beep_streamed" ID="{00C784CB-6030-4F71-BA17-192B5FCA0F82}" WorkUnitID="{5BB362B5-8606-4446-B0F7-6E9F02106499}" Origin="Manual" Filter="3"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
