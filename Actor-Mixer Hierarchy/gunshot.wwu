@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2392A984-EA75-400C-84B4-82BDA91B18CE}" SchemaVersion="97" RootDocumentID="{16CC20F0-718B-4BA8-8E1E-3AEA6B12DCD5}">
+	<AudioObjects>
+		<WorkUnit Name="gunshot" ID="{2392A984-EA75-400C-84B4-82BDA91B18CE}" OwnerID="{16CC20F0-718B-4BA8-8E1E-3AEA6B12DCD5}" PersistMode="Nested">
+			<ChildrenList>
+				<Sound Name="Pew_Pew" ID="{D41F845F-2503-4C98-AE49-59A55A864600}" ShortID="120126299">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+						<Property Name="IsStreamingEnabled" Type="bool">
+							<ValueList>
+								<Value>False</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C2AE085-1B72-410A-B4B1-A87D3834E8AB}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{24E23A41-B9EB-4210-91D1-95D6A4B75880}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Pew_Pew" ID="{A6ED78D3-669B-4F0A-8A05-0CF627BC76B3}">
+							<Language>SFX</Language>
+							<AudioFile>Pew_Pew.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="376784446"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Pew_Pew" ID="{A6ED78D3-669B-4F0A-8A05-0CF627BC76B3}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

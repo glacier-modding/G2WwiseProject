@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{16CC20F0-718B-4BA8-8E1E-3AEA6B12DCD5}" SchemaVersion="97">
+	<AudioObjects>
+		<WorkUnit Name="weapons" ID="{16CC20F0-718B-4BA8-8E1E-3AEA6B12DCD5}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="gunshot" ID="{2392A984-EA75-400C-84B4-82BDA91B18CE}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

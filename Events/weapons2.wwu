@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{84C7F5A2-2E95-4766-A839-B50D26173AED}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="weapons2" ID="{84C7F5A2-2E95-4766-A839-B50D26173AED}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="play_weapons2" ID="{D169FF86-7A64-4CB1-A5B1-266149CED2F3}">
+					<ChildrenList>
+						<Action Name="" ID="{350E42F4-FB0F-47A4-AC7C-F0C48E7F5DCB}" ShortID="543133820">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Pew_Pew" ID="{D41F845F-2503-4C98-AE49-59A55A864600}" WorkUnitID="{2392A984-EA75-400C-84B4-82BDA91B18CE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="stop_weapons2" ID="{A16B9133-FB0A-4C6B-ADA9-0BDB0745D978}">
+					<ChildrenList>
+						<Action Name="" ID="{339A3D7D-59B0-4E55-BEE5-F74621487375}" ShortID="254364308">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="34"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Pew_Pew" ID="{D41F845F-2503-4C98-AE49-59A55A864600}" WorkUnitID="{2392A984-EA75-400C-84B4-82BDA91B18CE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
