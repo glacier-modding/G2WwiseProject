@@ -5,19 +5,84 @@
 			<ChildrenList>
 				<Sound Name="Pew_Pew" ID="{D41F845F-2503-4C98-AE49-59A55A864600}" ShortID="120126299">
 					<PropertyList>
+						<Property Name="3DSpatialization" Type="int16" Value="2"/>
+						<Property Name="EnableDiffraction" Type="bool" Value="True"/>
 						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
 						<Property Name="IsStreamingEnabled" Type="bool">
 							<ValueList>
 								<Value>False</Value>
 							</ValueList>
 						</Property>
+						<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
 					</PropertyList>
 					<ReferenceList>
+						<Reference Name="Attenuation">
+							<Custom>
+								<Attenuation Name="Attenuation (Custom)" ID="{1CA3D59C-1E1E-4F34-A695-CFEF062710BC}" ShortID="1069787568">
+									<CurveUsageInfoList>
+										<VolumeDryUsage>
+											<CurveUsageInfo Platform="Linked" CurveToUse="Custom">
+												<Curve Name="VolumeDry" ID="{B820CBF4-3D04-4113-949A-1D289987ED6E}">
+													<PropertyList>
+														<Property Name="Flags" Type="int32" Value="3"/>
+													</PropertyList>
+													<PointList>
+														<Point>
+															<XPos>0</XPos>
+															<YPos>0</YPos>
+															<Flags>5</Flags>
+														</Point>
+														<Point>
+															<XPos>11.91223</XPos>
+															<YPos>-4.42446</YPos>
+															<Flags>0</Flags>
+														</Point>
+														<Point>
+															<XPos>32.91536</XPos>
+															<YPos>-11.48335</YPos>
+															<Flags>0</Flags>
+														</Point>
+														<Point>
+															<XPos>72.10031</XPos>
+															<YPos>-21.63406</YPos>
+															<Flags>0</Flags>
+														</Point>
+														<Point>
+															<XPos>100</XPos>
+															<YPos>-200</YPos>
+															<Flags>37</Flags>
+														</Point>
+													</PointList>
+												</Curve>
+											</CurveUsageInfo>
+										</VolumeDryUsage>
+										<VolumeWetGameUsage>
+											<CurveUsageInfo Platform="Linked" CurveToUse="UseVolumeDry"/>
+										</VolumeWetGameUsage>
+										<VolumeWetUserUsage>
+											<CurveUsageInfo Platform="Linked" CurveToUse="UseVolumeDry"/>
+										</VolumeWetUserUsage>
+										<LowPassFilterUsage>
+											<CurveUsageInfo Platform="Linked" CurveToUse="None"/>
+										</LowPassFilterUsage>
+										<HighPassFilterUsage>
+											<CurveUsageInfo Platform="Linked" CurveToUse="None"/>
+										</HighPassFilterUsage>
+										<SpreadUsage>
+											<CurveUsageInfo Platform="Linked" CurveToUse="None"/>
+										</SpreadUsage>
+										<FocusUsage>
+											<CurveUsageInfo Platform="Linked" CurveToUse="None"/>
+										</FocusUsage>
+									</CurveUsageInfoList>
+								</Attenuation>
+							</Custom>
+						</Reference>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C2AE085-1B72-410A-B4B1-A87D3834E8AB}"/>
 						</Reference>
 						<Reference Name="OutputBus">
-							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{24E23A41-B9EB-4210-91D1-95D6A4B75880}"/>
+							<ObjectRef Name="Weapons" ID="{BF38368A-F253-46AE-829E-3B7E2C950226}" WorkUnitID="{24E23A41-B9EB-4210-91D1-95D6A4B75880}"/>
 						</Reference>
 					</ReferenceList>
 					<ChildrenList>
@@ -29,6 +94,9 @@
 							</MediaIDList>
 						</AudioFileSource>
 					</ChildrenList>
+					<PositioningInfo>
+						<Position Name="" ID="{385D6779-F06F-4D04-9ED6-1C797103CFBA}"/>
+					</PositioningInfo>
 					<ActiveSourceList>
 						<ActiveSource Name="Pew_Pew" ID="{A6ED78D3-669B-4F0A-8A05-0CF627BC76B3}" Platform="Linked"/>
 					</ActiveSourceList>
