@@ -56,9 +56,9 @@
 				</Sound>
 				<Sound Name="beep_memory" ID="{B186BB89-ED08-4066-8217-5D8A42B0B37F}" ShortID="381120703">
 					<PropertyList>
-						<Property Name="IsZeroLantency" Type="bool">
+						<Property Name="IsStreamingEnabled" Type="bool">
 							<ValueList>
-								<Value>True</Value>
+								<Value>False</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>

@@ -3,7 +3,7 @@
 	<SoundBanks>
 		<WorkUnit Name="GlobalData" ID="{F656736B-4184-4D38-9A42-29CCB21BFDA5}" PersistMode="Standalone">
 			<ChildrenList>
-				<SoundBank Name="Example_Soundbank" ID="{F407D5DF-0720-497A-B21D-6B8B16EE3908}">
+				<SoundBank Name="Example_SoundBank" ID="{5128F82A-82EC-48E0-8C5B-D6CA58CC44FA}">
 					<ObjectInclusionList>
 						<ObjectRef Name="Play_counting_streamed_prefetched" ID="{C213C56A-546A-4252-8DB2-76ABA10EAECE}" WorkUnitID="{72377C17-20C6-4D9F-B976-57664E1823A6}" Origin="Manual" Filter="3"/>
 						<ObjectRef Name="Play_beep_memory" ID="{8F005B14-A3F0-45A5-9DE1-C1FE8D8CC7CC}" WorkUnitID="{5BB362B5-8606-4446-B0F7-6E9F02106499}" Origin="Manual" Filter="3"/>
