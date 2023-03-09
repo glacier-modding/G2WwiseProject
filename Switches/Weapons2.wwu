@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0B5D2250-5E27-4162-9212-29F8B5B8B07D}" SchemaVersion="97">
+	<Switches>
+		<WorkUnit Name="Weapons2" ID="{0B5D2250-5E27-4162-9212-29F8B5B8B07D}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Weapons_Family" ID="{EE0D6637-0AB2-4C89-9F64-5051F3457D35}">
+					<ChildrenList>
+						<Switch Name="Exotics" ID="{332BE991-4B22-4C7F-BE08-7F11167BE82B}"/>
+						<Switch Name="Heavy" ID="{F89186D6-477C-46FA-B776-B7E10331FC1D}"/>
+						<Switch Name="Light" ID="{7E77193E-0EE3-4A78-8108-529A571E5470}"/>
+						<Switch Name="NPC" ID="{C08EAD60-2095-4DDD-9D36-85E9E4415A6A}"/>
+						<Switch Name="Standard" ID="{24B61F5B-BC0D-4575-BED8-04C0E60CB77F}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Weapon_Class" ID="{7EF934F3-B531-418D-A8EB-2F1038DF7E74}">
+					<ChildrenList>
+						<Switch Name="AssaultRifle" ID="{5CB6C686-6631-4A72-BA71-03D282E35F1E}"/>
+						<Switch Name="Pistol" ID="{BD10C969-164E-4D48-ADEC-F635FD0CBE5C}"/>
+						<Switch Name="Shotgun" ID="{D20BE2AC-D6B7-43C5-BB84-054BC70FD360}"/>
+						<Switch Name="SMG" ID="{0FE18657-89A4-412D-A624-D138578A9466}"/>
+						<Switch Name="SniperRifle" ID="{46E67D5F-7F6A-42F1-8FE1-5EC4EC2F2ABB}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="TailType" ID="{6E701EB2-AECB-404A-9C5A-481D499C5449}">
+					<ChildrenList>
+						<Switch Name="Normal" ID="{6C464451-0B87-47C8-953A-6CB00CA54D44}"/>
+						<Switch Name="NormalSweetener" ID="{6D047FCB-DB34-45DE-A680-1CE7D2580BBE}"/>
+						<Switch Name="Silenced" ID="{96B2BBC9-9BCC-405C-941D-5C8E4DA7DB95}"/>
+						<Switch Name="SilencedSweetener" ID="{E3ED70DE-B105-4A78-A15E-AD7DD078F5A9}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Location" ID="{99411FFC-EA0C-46B4-95A5-3DD6B27B710F}">
+					<ChildrenList>
+						<Switch Name="Indoor" ID="{C3EADCB1-6CA1-4C0E-9625-308F3FDD5154}"/>
+						<Switch Name="Outdoor" ID="{A6A7F948-316B-450C-8EA4-13B3594C2190}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="HeadType" ID="{7D27A455-2CE5-4E09-8694-63CE12EE63A2}">
+					<ChildrenList>
+						<Switch Name="Normal" ID="{AC7AD09A-7204-4B17-9A06-4A3E0576CC72}"/>
+						<Switch Name="NormalSweetener" ID="{7315463D-9D4F-4AEF-A2EA-02CA33386B27}"/>
+						<Switch Name="Silenced" ID="{45278D13-E970-45CE-89F9-8CBC773E15CC}"/>
+						<Switch Name="SilencedSweetener" ID="{678227B0-35E6-42F9-A95B-A85E52BD8807}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Fire_Types" ID="{B745A16F-65A1-49B1-9483-6D8F9A834197}">
+					<ChildrenList>
+						<Switch Name="Full_Automatic" ID="{0F778F1F-97C9-4615-961B-700BF7F0264B}"/>
+						<Switch Name="Single" ID="{28A70AD0-BD6D-49E5-A397-AD586E9D6326}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Character_Weapon" ID="{F9C70F19-D79A-4F82-BE2F-2C5DBBDC5A5E}">
+					<ChildrenList>
+						<Switch Name="HM" ID="{E2505C9A-7EB6-4D51-909E-1F485165F9E4}"/>
+						<Switch Name="NPC" ID="{17921363-5973-42AB-8464-5AA696203F41}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>
