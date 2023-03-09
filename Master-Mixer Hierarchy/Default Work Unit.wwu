@@ -150,6 +150,7 @@
 								</AuxBus>
 							</ChildrenList>
 						</AuxBus>
+						<Bus Name="Crowd" ID="{F3391416-1978-4172-9015-B71B33641509}"/>
 					</ChildrenList>
 				</Bus>
 				<Bus Name="Motion Factory Bus" ID="{2AF9B9C6-6EF1-46E9-B5F2-E30C9E602C74}">
