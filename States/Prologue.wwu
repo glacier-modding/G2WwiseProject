@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{7DFAB40C-12AE-40E3-A2D9-DB87831B606A}" SchemaVersion="97" RootDocumentID="{5A6F0FA2-AF07-4A99-8758-60B7BF60C99C}">
+	<States>
+		<WorkUnit Name="Prologue" ID="{7DFAB40C-12AE-40E3-A2D9-DB87831B606A}" OwnerID="{5A6F0FA2-AF07-4A99-8758-60B7BF60C99C}" PersistMode="Nested">
+			<ChildrenList>
+				<StateGroup Name="Arrival_Ambience" ID="{BF4A9A34-9076-4E63-8690-D57FE542AFC5}">
+					<ChildrenList>
+						<State Name="None" ID="{3F36B269-033E-41CC-9DEC-62FD43AE9A83}"/>
+						<State Name="Cutscene" ID="{8DAEB5F2-FD61-4E68-A878-9BB02E33CF3F}"/>
+						<State Name="Gameplay" ID="{D4BC5AEE-E21E-4737-938C-01B8E10922BE}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>
