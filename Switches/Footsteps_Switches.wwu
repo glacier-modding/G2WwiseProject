@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B7B96619-06E4-4DC1-94BF-68B9D64C4566}" SchemaVersion="97">
+	<Switches>
+		<WorkUnit Name="Footsteps_Switches" ID="{B7B96619-06E4-4DC1-94BF-68B9D64C4566}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="FS_Sweetener" ID="{EADACE4C-AD30-49A1-A212-88D7B2E0C285}">
+					<ChildrenList>
+						<Switch Name="_TEST_Content" ID="{9BE303C9-7A04-4A61-B9BE-A4371529D3B8}"/>
+						<Switch Name="Bush" ID="{EE1E490D-FE67-443B-82B6-7DB519306122}"/>
+						<Switch Name="CocoaBush" ID="{72127D5D-D6DF-422F-B927-5DE04C293900}"/>
+						<Switch Name="CreakyFloorboardHigh" ID="{73B76E44-DC11-4483-A40B-89AFADE2B547}"/>
+						<Switch Name="CreakyFloorboards" ID="{2CFC897E-0CD4-40AC-83C1-714A880B20AA}"/>
+						<Switch Name="CreakyFloorboardSqueaky" ID="{A3699376-AE27-4E09-9B78-C7FF6CF205FA}"/>
+						<Switch Name="CreakyRattlyMetal" ID="{277A2EE1-52C4-4A21-8702-9E46AE51BB5C}"/>
+						<Switch Name="CreakySolidWood" ID="{D90CBCA1-3B8E-450A-88C8-6B7133A8A067}"/>
+						<Switch Name="CreakyStairs" ID="{D44B6ABE-7C74-4B68-9E2B-B814A0589813}"/>
+						<Switch Name="CreakyWood" ID="{9D371889-4B58-432C-BBF8-3D55BCFD6CC6}"/>
+						<Switch Name="DryDusty" ID="{C08EE88D-2246-45FB-93EA-0A061A1B3A21}"/>
+						<Switch Name="Empty" ID="{0069DC48-617F-4710-8157-A2F4684F5917}"/>
+						<Switch Name="Glass" ID="{955EC4A9-B2FA-4501-9BFA-2CC0AC8BFCE5}"/>
+						<Switch Name="GrassTall" ID="{F59A0281-8E87-4848-AA08-1C977E799F46}"/>
+						<Switch Name="Leaves" ID="{0E94A92E-5DE5-4550-8615-1A6964071028}"/>
+						<Switch Name="OilPuddle" ID="{550C684E-2983-41F2-80C5-0F0696932D12}"/>
+						<Switch Name="OldHardWood" ID="{3FF6391B-E6E1-4DF8-8BC3-EC65D10A179E}"/>
+						<Switch Name="RicketyWood" ID="{6E05C0F3-4B40-4045-A289-E33E015DF444}"/>
+						<Switch Name="RottenWoodDebris" ID="{BD06259E-6484-4F4D-8708-BAA634A93113}"/>
+						<Switch Name="Rubble" ID="{68774526-9028-4796-BECA-12D69ADC21A7}"/>
+						<Switch Name="Sand" ID="{4932205A-79FB-4AEB-A1D8-A1EC3E03A5DC}"/>
+						<Switch Name="SmallStones" ID="{73045414-02DF-4461-8CFE-754C2653D6A5}"/>
+						<Switch Name="Wet_Puddle" ID="{C318CB00-61FB-414F-AC8F-E86A519937F8}"/>
+						<Switch Name="Wet_shallow" ID="{768DEDAF-BC1B-4AD3-82A9-B0CE2B7FCDE4}"/>
+						<Switch Name="WoodBridge" ID="{A5D4361B-6234-4D77-BD26-8BB8FF0E1645}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

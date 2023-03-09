@@ -55,6 +55,21 @@
 						<Switch Name="NPC" ID="{17921363-5973-42AB-8464-5AA696203F41}"/>
 					</ChildrenList>
 				</SwitchGroup>
+				<SwitchGroup Name="Impact_Type" ID="{A8D1EDAD-B3ED-4A6E-9377-D268BAFB6A4E}">
+					<ChildrenList>
+						<Switch Name="Normal_Impact" ID="{2476D1AE-40E3-4EE7-B804-29EA7150A0C2}"/>
+						<Switch Name="Sweetener_Impact" ID="{7E2F1126-F134-4713-AD4B-B760989D35A7}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Exotics" ID="{8B9CA81C-3BBC-494E-B928-EB3551A36E9D}">
+					<ChildrenList>
+						<Switch Name="_01_Mini_Pistol" ID="{461DC2D8-B36E-4D88-B562-394D397A8250}"/>
+						<Switch Name="_02_OneHandSpinReload_Shotgun" ID="{11A07875-84B4-4CC2-9B16-2A87AB3ECC09}"/>
+						<Switch Name="_03_TranquilizerDart_Pistol" ID="{1D0557FC-6380-4BC9-A20B-8F0E430227D2}"/>
+						<Switch Name="_04_Walther2000_SniperRifle" ID="{AD1DC3DE-4983-4DA1-BBB0-240C03CBB1EF}"/>
+						<Switch Name="_05_ShootingRange_NPC_AssaultRifle" ID="{2C90EE18-9C41-4B67-B8E1-49089DCF7B55}"/>
+					</ChildrenList>
+				</SwitchGroup>
 			</ChildrenList>
 		</WorkUnit>
 	</Switches>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D3EAFB32-5BB9-460A-B9D8-28AD9CA6B48D}" SchemaVersion="97">
+	<Switches>
+		<WorkUnit Name="Generic_Switches" ID="{D3EAFB32-5BB9-460A-B9D8-28AD9CA6B48D}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Car_Alarms" ID="{2ED45C1E-4040-46AE-9890-4C903E2CE85D}">
+					<ChildrenList>
+						<Switch Name="Medium" ID="{606845A7-E04E-43B6-83ED-4D53C848F141}"/>
+						<Switch Name="Small" ID="{E76C1EAE-D835-4AB8-B12A-9C6526C93232}"/>
+						<Switch Name="SUV" ID="{D09159A9-D03B-40CE-A73B-0B0B03BA37FE}"/>
+						<Switch Name="Truck" ID="{2862BC4E-4A2F-40DD-B793-DC188F2013B9}"/>
+						<Switch Name="Vintage" ID="{AA60A554-CBCE-4099-B6F5-09C43AB81521}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

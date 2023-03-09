@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{46246D94-4B53-48CA-B8A4-2D176D69951A}" SchemaVersion="97" RootDocumentID="{6E2C0E79-DBBE-441F-8B83-E1A465025425}">
+	<Switches>
+		<WorkUnit Name="Switches_Evergreen" ID="{46246D94-4B53-48CA-B8A4-2D176D69951A}" OwnerID="{6E2C0E79-DBBE-441F-8B83-E1A465025425}" PersistMode="Nested">
+			<ChildrenList>
+				<SwitchGroup Name="Evergreen_Loadingscreen_Hot" ID="{1D29C4E7-9D82-489B-A7A1-F4F1985107B1}">
+					<ChildrenList>
+						<Switch Name="Hot" ID="{1572B68D-D8A9-4802-8A4C-D50D479905F5}"/>
+						<Switch Name="InMission" ID="{A975C0EA-63B5-4DD3-BB82-562A115F2EBF}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Evergreen_Loadingscreen_Mild" ID="{AD9EA866-4F1C-4F39-83EE-5368DB895B0E}">
+					<ChildrenList>
+						<Switch Name="Mild" ID="{D2D775B2-C3A6-496A-8AC3-D59ADF839FE8}"/>
+						<Switch Name="InMission" ID="{5B8FDBAF-2F7E-42B6-AC14-413C30419B90}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Evergreen_Loadingscreens" ID="{C9F93C69-D2C9-4A5E-9F6C-5149528F4F58}">
+					<ChildrenList>
+						<Switch Name="Default" ID="{41C4669F-1B1B-47EA-8B90-560D4A7F981F}"/>
+						<Switch Name="Hot" ID="{BC6FF08A-9061-483D-8684-CF1B6E5EA332}"/>
+						<Switch Name="InMission" ID="{41ABF2A1-8BAC-4B0B-BCEB-73BF67434EB9}"/>
+						<Switch Name="Lost" ID="{5B8B56AA-456E-4054-AD0A-F3D86F047E70}"/>
+						<Switch Name="Mild" ID="{DAE0C464-D2E3-42E2-AF26-63CBEA87C86B}"/>
+						<Switch Name="Safehouse" ID="{F3BF1E7B-010F-4B10-A5BA-9126D74E9A2F}"/>
+						<Switch Name="Won" ID="{225F81E3-02C8-4921-81D0-E21030C587BC}"/>
+						<Switch Name="Wounded" ID="{EC98D177-B005-4A52-9A7B-B874CE310F93}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

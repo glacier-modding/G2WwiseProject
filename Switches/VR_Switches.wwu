@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{AA6E9A35-7BE5-4F4C-9EA0-D03C9D092D06}" SchemaVersion="97">
+	<Switches>
+		<WorkUnit Name="VR_Switches" ID="{AA6E9A35-7BE5-4F4C-9EA0-D03C9D092D06}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="ObjectMaterialType" ID="{56A520FC-5EFA-4C16-89BE-00D8A3E4771D}">
+					<ChildrenList>
+						<Switch Name="Default" ID="{359412AE-D3DD-4A35-95F9-4AFECD9A2EDF}"/>
+						<Switch Name="Fabric" ID="{21CAD463-880B-4070-A415-8B702AF2807F}"/>
+						<Switch Name="Metal" ID="{623AC197-38A0-4601-94C1-882FC5DCFE21}"/>
+						<Switch Name="Paper" ID="{4333BB1E-54F9-4BA7-828E-A088A8C7ADC2}"/>
+						<Switch Name="Polyester" ID="{D00D687D-29ED-4FCF-9809-6693015BF7AF}"/>
+						<Switch Name="Rubber" ID="{97FEDB3C-5BB6-40FA-8903-ED48BB6D1457}"/>
+						<Switch Name="Syringe" ID="{AF35217D-F595-49D5-BBA2-5B06BFFA9790}"/>
+						<Switch Name="Wood" ID="{122D9D64-54FD-4FCE-90AB-90F60D169766}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="VR_Melee_WhooshType" ID="{6E74EB8B-FCAB-4778-ADD2-AC3A22B770F0}">
+					<ChildrenList>
+						<Switch Name="Generic" ID="{2F77812F-28E5-474E-947C-94651698F3B2}"/>
+						<Switch Name="MetalHeavy" ID="{B9F075FA-3C75-4ED1-9C58-15F7B35EDF36}"/>
+						<Switch Name="MetaLight" ID="{02547241-F561-4E0B-9B2E-171B7C9F950C}"/>
+						<Switch Name="MetalMedium" ID="{61C93827-6DCD-48C0-A7CD-0EC68E68E276}"/>
+						<Switch Name="MetalRod" ID="{6FDCCD21-9CA7-4889-8358-4142F36FBBB3}"/>
+						<Switch Name="Paper" ID="{EF00156B-E9C2-4826-8758-BA76577FA281}"/>
+						<Switch Name="Wood" ID="{CCAB4DAB-DB93-45E6-9113-A11DFC2C7145}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="VR_Outfit_Hands" ID="{2CA02E39-5205-4308-86BA-0132DD993463}">
+					<ChildrenList>
+						<Switch Name="ClothGloves" ID="{3798E577-D54E-4374-8196-0091DDFAC4F7}"/>
+						<Switch Name="LeatherGloves" ID="{94F052DC-6755-40F9-BAE3-8C63ED45E565}"/>
+						<Switch Name="NoGloves" ID="{F3ECDFC8-B90A-4202-AAF2-419167235A4C}"/>
+						<Switch Name="RubberGloves" ID="{8B18DBD7-00C9-4F2A-8306-E0F23F8E415C}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

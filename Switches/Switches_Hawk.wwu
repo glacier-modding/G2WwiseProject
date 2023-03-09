@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{EDD526FD-1FF9-475E-8EEB-559C6B549E1D}" SchemaVersion="97" RootDocumentID="{6E2C0E79-DBBE-441F-8B83-E1A465025425}">
+	<Switches>
+		<WorkUnit Name="Switches_Hawk" ID="{EDD526FD-1FF9-475E-8EEB-559C6B549E1D}" OwnerID="{6E2C0E79-DBBE-441F-8B83-E1A465025425}" PersistMode="Nested">
+			<ChildrenList>
+				<SwitchGroup Name="Hawk_DeathGrunt_Gender" ID="{DCA98A7D-AEC8-4F71-B809-4BCC655B2D05}">
+					<ChildrenList>
+						<Switch Name="Female" ID="{7171BC1A-218F-4CB2-975C-4E7D105063D8}"/>
+						<Switch Name="Male" ID="{5A8DE234-D990-4D43-B317-F17E8518AE85}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

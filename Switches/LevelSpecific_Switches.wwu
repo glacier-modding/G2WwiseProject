@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{6E2C0E79-DBBE-441F-8B83-E1A465025425}" SchemaVersion="97">
+	<Switches>
+		<WorkUnit Name="LevelSpecific_Switches" ID="{6E2C0E79-DBBE-441F-8B83-E1A465025425}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="Switches_Hawk" ID="{EDD526FD-1FF9-475E-8EEB-559C6B549E1D}" PersistMode="Reference"/>
+				<WorkUnit Name="Switches_Tutorial" ID="{F8AD40C9-2CF0-4D1E-8D5B-41F392B88422}" PersistMode="Reference"/>
+				<WorkUnit Name="Switches_Evergreen" ID="{46246D94-4B53-48CA-B8A4-2D176D69951A}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

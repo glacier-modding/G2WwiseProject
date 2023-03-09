@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{ACCA8079-8051-4A85-BB63-ACD9363D67DF}" SchemaVersion="97">
+	<Switches>
+		<WorkUnit Name="Animation" ID="{ACCA8079-8051-4A85-BB63-ACD9363D67DF}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Outfit" ID="{B7E17476-BAD2-433F-BFF8-208047E0FBDC}">
+					<ChildrenList>
+						<Switch Name="Armour" ID="{85309DFF-9DD0-4F7C-90B5-1824808BE33C}"/>
+						<Switch Name="ArmyVest" ID="{9548DA22-0FE9-4A63-9D9B-A560F1EA484B}"/>
+						<Switch Name="Bells" ID="{9E7C0F51-2FB1-4F4E-9850-06C4C2CFBED3}"/>
+						<Switch Name="BodyguardSuit" ID="{1A742509-3540-4A31-AFD6-A0FDF47DA3EB}"/>
+						<Switch Name="Builder" ID="{487C956E-A3B2-4805-AC56-F0A4A7D219FF}"/>
+						<Switch Name="CatwalkDress" ID="{B99BB9C6-BB3F-4E52-80C8-6926EF80F0DE}"/>
+						<Switch Name="Chains" ID="{EFC191FA-425B-49FC-98A9-69F4A677F967}"/>
+						<Switch Name="CivClothLight" ID="{7C9F8F8F-3435-4105-BB8A-8C9D1C3CA8A9}"/>
+						<Switch Name="ClothApron" ID="{90EA5764-2E6E-418C-B29D-E237AAF492A8}"/>
+						<Switch Name="ColombiaGuard" ID="{BED08C01-CEB1-4599-BD3D-43F9AFB7F1D0}"/>
+						<Switch Name="Engineer" ID="{050D8B19-2F43-4A72-B51E-09D9F1F29B4C}"/>
+						<Switch Name="Hippie" ID="{38676589-8326-4BF1-92DA-85A703DCB338}"/>
+						<Switch Name="HippoWhisperer" ID="{42F5D931-F8C1-45B0-9E47-33E49E1CE05D}"/>
+						<Switch Name="Janitor" ID="{1CBBF341-5698-4B25-BB73-72B1A4A38F5F}"/>
+						<Switch Name="Knight" ID="{1920DC47-DFDC-4257-8279-BAB751750849}"/>
+						<Switch Name="LabBioSuit" ID="{2643DC99-344F-46A3-B66B-1C1B99A51A68}"/>
+						<Switch Name="LeatherBag" ID="{5486D74B-B1E7-40F5-ABE7-6791A651FBDF}"/>
+						<Switch Name="Metal" ID="{6AC31A13-DECE-415F-8905-F9AE0E6C3E60}"/>
+						<Switch Name="Naked" ID="{33F74D69-7045-4233-8C92-064BB6B256B8}"/>
+						<Switch Name="Pilot" ID="{43BF9A2F-FEA6-4493-9768-31B3CE0C14CE}"/>
+						<Switch Name="PlasticApron" ID="{D544D237-4FA2-4463-B4F3-BAB302E9C3D4}"/>
+						<Switch Name="PoliceUniform" ID="{78CF8549-606D-4441-8D0D-12E5F0AFAB74}"/>
+						<Switch Name="Priest" ID="{7E68BE17-E3FE-43BF-AAC0-C7021C02D280}"/>
+						<Switch Name="Raincoat" ID="{2EBAC622-B369-4016-8B41-271608DA00C4}"/>
+						<Switch Name="Robe" ID="{908F14D8-E8F9-48CA-B87A-668B566D8889}"/>
+						<Switch Name="RobeGuard" ID="{4028261A-614F-445E-ADB5-964071D9CF69}"/>
+						<Switch Name="RobeLight" ID="{6EAB8067-E664-4934-9B7D-929F0EB0427E}"/>
+						<Switch Name="Shaman" ID="{83D4137F-5B28-4F92-8BEE-9FEFDD50D4BE}"/>
+						<Switch Name="Suit47" ID="{40B7F340-D490-4209-A3BF-D2F9EE6DFF43}"/>
+						<Switch Name="TrenchCoat" ID="{7B40769A-8998-4F1B-8BFB-F1ACBEEA62F1}"/>
+						<Switch Name="WorkerClothHeavy" ID="{85ECD10F-76B6-4DA3-8208-93ED10EB37C9}"/>
+						<Switch Name="WorkerClothLight" ID="{BB250627-F79F-4749-890E-1E526E1D4AF4}"/>
+						<Switch Name="WorkerClothMed" ID="{9A570FF8-4823-4E4B-9164-DB3891067BF8}"/>
+						<Switch Name="Coins" ID="{0DD7C290-13BF-4811-A21D-A88B837E9B66}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="AgilityMaterial" ID="{8962E777-99C7-4FD5-8FF5-D3CFDC769528}">
+					<ChildrenList>
+						<Switch Name="Clock" ID="{529569AA-E3F8-42B9-94BB-CF5911D678D7}"/>
+						<Switch Name="CreakyWood" ID="{646E3D94-53C3-4C29-913F-EA863FD3C322}"/>
+						<Switch Name="Default" ID="{D835923D-BCCB-420E-AAFF-4D00596E5AF7}"/>
+						<Switch Name="Dirt" ID="{760D2744-581E-4B24-807F-1FB318D56E29}"/>
+						<Switch Name="Hay" ID="{F6B5B248-4C54-41E8-A7F2-091A7058E129}"/>
+						<Switch Name="IronPole" ID="{8A4CAA00-9E34-4517-99F9-953D400509BA}"/>
+						<Switch Name="Leaves" ID="{5A9BB4FE-111B-4572-86C9-24F983C7CB9F}"/>
+						<Switch Name="MetalFence" ID="{AF6CBCED-4609-43D4-993D-29B8EB9D0C71}"/>
+						<Switch Name="MetalPlateRusty" ID="{CD662120-A735-4E85-BCAD-02CF53C8FA07}"/>
+						<Switch Name="WindowFrame_Wood" ID="{C406CD3A-7E72-4F07-A347-65C6A68D1C54}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="ItemWeapon" ID="{F94C1913-0319-41FB-9C8F-7EB87A40C4E5}">
+					<ChildrenList>
+						<Switch Name="EmptyHanded" ID="{1A824D7A-EC60-4F2F-AC89-30EACF4C113E}"/>
+						<Switch Name="Handgun" ID="{EA6E1959-6AF9-434F-B0DC-BCE45C85A26C}"/>
+						<Switch Name="Item_Bottle" ID="{B3B6696F-247E-4BAD-8BFB-51FA869A2634}"/>
+						<Switch Name="Item_Can_Liquid" ID="{466EF654-F917-4ECA-B1B5-E39BBFA09487}"/>
+						<Switch Name="Item_Container" ID="{AC43D408-83E3-42F6-8DFC-CD4BAA01CA96}"/>
+						<Switch Name="Item_Keys" ID="{4806C00A-8F70-40A8-839C-0D5E7FEFA595}"/>
+						<Switch Name="Item_Liquid" ID="{CE395DB7-93C7-4577-A4BC-41E15D5CE7E6}"/>
+						<Switch Name="Item_Rattly_Metal" ID="{03B9D4BA-CA4C-453A-BBA1-32BAC4B71786}"/>
+						<Switch Name="Item_Solid_Medium" ID="{0A978929-5E30-4980-AE6A-798DA858B6BC}"/>
+						<Switch Name="Item_Squishy" ID="{A58873A1-D290-48AE-9488-54B56D867ED5}"/>
+						<Switch Name="Rifle" ID="{5837071E-12D6-4BB3-A781-2D2D761B1D01}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

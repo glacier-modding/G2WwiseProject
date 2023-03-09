@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F8AD40C9-2CF0-4D1E-8D5B-41F392B88422}" SchemaVersion="97" RootDocumentID="{6E2C0E79-DBBE-441F-8B83-E1A465025425}">
+	<Switches>
+		<WorkUnit Name="Switches_Tutorial" ID="{F8AD40C9-2CF0-4D1E-8D5B-41F392B88422}" OwnerID="{6E2C0E79-DBBE-441F-8B83-E1A465025425}" PersistMode="Nested">
+			<ChildrenList>
+				<SwitchGroup Name="INTRO_001_LoopMain_SW_01" ID="{FCA5ADCD-502A-4583-97DC-0C09BAFE1D3D}">
+					<ChildrenList>
+						<Switch Name="Loop" ID="{E89D1A24-D311-48E2-9FE0-F8EC862A3564}"/>
+						<Switch Name="Main" ID="{BEA55A7B-F105-4AFF-8F19-611A1ECC9E43}"/>
+						<Switch Name="Tunnel" ID="{E73DBD82-2B38-45A6-843E-1FDBB6729851}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>
