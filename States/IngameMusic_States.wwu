@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{BD8D4954-DEBD-49FF-9D08-1A25A99BBFBD}" SchemaVersion="97">
+	<States>
+		<WorkUnit Name="IngameMusic_States" ID="{BD8D4954-DEBD-49FF-9D08-1A25A99BBFBD}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="MusicCore_CompStates" ID="{F9583316-070E-4887-931B-B06CB5021A48}">
+					<ChildrenList>
+						<State Name="None" ID="{F0017C89-8DB5-4807-9B49-32E5E4C90527}"/>
+						<State Name="Ambient" ID="{D0E7D9DD-BA5B-4880-8EE3-BC42F8A05E15}"/>
+						<State Name="Combat" ID="{725B8E68-ECC7-48B5-9A37-DF4538AC4C20}"/>
+						<State Name="Exfiltration" ID="{2E1884C4-89A3-4852-9386-4035F29C5106}"/>
+						<State Name="ExitCut" ID="{8B95CCE0-5BFB-44D5-969E-FD707BBA6D81}"/>
+						<State Name="Silence" ID="{65D44ADE-C9BD-40D7-A19F-1AE0D41E4C6A}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="MusicCore_AmbientState" ID="{562D01DD-7B2B-4E18-A135-0E555C024087}">
+					<ChildrenList>
+						<State Name="None" ID="{63B352DB-7E93-4D52-9053-2EDF5F12CBAC}"/>
+						<State Name="AmbientZone" ID="{F56252D6-8160-4BB0-8E76-A7BDDFB031B3}"/>
+						<State Name="SilentZone" ID="{B149CF63-8F01-40EE-AEED-CC149E725B78}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="MusicCore_S2_AmbientBiome" ID="{6752E54F-5454-44C0-838A-7BDBA94887BD}">
+					<ChildrenList>
+						<State Name="None" ID="{5ED66AB7-5990-410A-A7E2-6E4C8904BFEC}"/>
+						<State Name="AmbientBiome_01" ID="{A8E26BB6-F22F-4C4E-8FF8-9E03BA0D14B9}"/>
+						<State Name="AmbientBiome_02" ID="{FA7942E0-D2EE-48BF-83C4-36819B2F31E1}"/>
+						<State Name="AmbientBiome_03" ID="{42F716D7-D66E-40AD-A436-497C4918F7AA}"/>
+						<State Name="SilentZone" ID="{709D0C59-839C-4B45-BB35-42A050C7AB01}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

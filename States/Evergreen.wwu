@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{FACAA785-8181-4F66-B892-5E0F91E5AB87}" SchemaVersion="97" RootDocumentID="{5A6F0FA2-AF07-4A99-8758-60B7BF60C99C}">
+	<States>
+		<WorkUnit Name="Evergreen" ID="{FACAA785-8181-4F66-B892-5E0F91E5AB87}" OwnerID="{5A6F0FA2-AF07-4A99-8758-60B7BF60C99C}" PersistMode="Nested">
+			<ChildrenList>
+				<StateGroup Name="Evergreen_Mission_Specific_Mix" ID="{7AF0409F-3A54-4921-8324-76434B43F527}">
+					<ChildrenList>
+						<State Name="None" ID="{893727DF-A140-400E-AA42-784F7E5D3B46}"/>
+						<State Name="InsideHotMission" ID="{C2FE4A70-0EC2-44CF-B4B8-7CF214F92967}"/>
+						<State Name="InsideMildMission" ID="{4F88C9B4-143C-43AF-A61B-122F74FF3EE2}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

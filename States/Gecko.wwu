@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{74208B25-7B9A-44EE-8325-819D590AEAB4}" SchemaVersion="97" RootDocumentID="{5A6F0FA2-AF07-4A99-8758-60B7BF60C99C}">
+	<States>
+		<WorkUnit Name="Gecko" ID="{74208B25-7B9A-44EE-8325-819D590AEAB4}" OwnerID="{5A6F0FA2-AF07-4A99-8758-60B7BF60C99C}" PersistMode="Nested">
+			<ChildrenList>
+				<StateGroup Name="StateGroup_Gecko_DX_47" ID="{E191DE0C-79FE-45F1-B1BB-1DF60DA0A5A9}">
+					<ChildrenList>
+						<State Name="None" ID="{2FD78C53-0E82-440F-85F2-E54E0F773963}"/>
+						<State Name="State_Gecko_DX_47_StartX" ID="{19F5645E-3953-462E-A883-4C620967DF3E}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="StateGroup_Gecko_DX_Grey_Processed" ID="{064B5482-D614-47E4-B87E-DA6B1B86AB37}">
+					<ChildrenList>
+						<State Name="None" ID="{E415B4DF-9652-44F7-9A41-0846E90ADB2D}"/>
+						<State Name="State_Gecko_DX_Grey_Processed" ID="{B1E0C1B6-6A1B-4E17-835B-1F504C6C3954}"/>
+						<State Name="State_Gecko_DX_Grey_Unprocessed" ID="{ABB52C6E-EAEE-4D5C-A48E-5FCDFEA0EBEA}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Gecko_Music_Opening" ID="{344C9D55-CA66-4A19-9E57-E54CF0325B65}">
+					<ChildrenList>
+						<State Name="None" ID="{36DBC5C6-05A3-4B2E-9025-F61CC7815F64}"/>
+						<State Name="P1_DialogueLedge" ID="{FEA84A62-5F90-4D9D-9486-B2D2F2B32014}"/>
+						<State Name="P10_BondReveal" ID="{007F3E5F-76B4-423A-B772-52CDAA09C433}"/>
+						<State Name="P3_AgentLedge" ID="{F19BF01E-34C7-42E4-8FAD-5899B6DCB71D}"/>
+						<State Name="P4_AfterClimb" ID="{3C77A5C7-18D5-4AE8-AA65-1FF82CA5E080}"/>
+						<State Name="P6_WindowLedge" ID="{AE8E4E80-4774-460B-9518-65664FCEDEAF}"/>
+						<State Name="P7_5_OpenHatch" ID="{1A6DF8E8-CC0F-4C74-A1BF-DAA820FBA175}"/>
+						<State Name="P7_Silence" ID="{01F896AA-6845-454F-B647-516BBE7228AF}"/>
+						<State Name="P8_5_AfterTunnel" ID="{64F93C52-6C18-4E95-AF7B-8B3A2D53456E}"/>
+						<State Name="P8_Maintenance" ID="{881884FD-ED19-4783-838A-1BF16FD1D64C}"/>
+						<State Name="P9_DressingRoom" ID="{818C2657-E525-44D6-8F4E-5109F2700EA3}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Gecko_Music_LucasGrey_End" ID="{0C56F6D1-0890-410C-A90A-4A509ADB3454}">
+					<ChildrenList>
+						<State Name="None" ID="{A93F381E-0CEF-4B4B-80BC-521C7A01A226}"/>
+						<State Name="Execution" ID="{97DE4864-7252-4901-97D5-6ECBD65231AC}"/>
+						<State Name="Lockdown" ID="{4EAE2837-3B2D-479A-904E-CEAC38D81F2A}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

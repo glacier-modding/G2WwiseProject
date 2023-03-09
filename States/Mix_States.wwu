@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0FD1366B-309C-4176-8C89-2DF1019D49E4}" SchemaVersion="97">
+	<States>
+		<WorkUnit Name="Mix_States" ID="{0FD1366B-309C-4176-8C89-2DF1019D49E4}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="ScoreMusic_vs_Other" ID="{A0A443B1-FC9B-4557-BCD8-F8451FF68FEC}">
+					<ChildrenList>
+						<State Name="None" ID="{E38F0549-8ABC-4B1D-99B9-D0357DB11326}"/>
+						<State Name="L1" ID="{E2D6D030-F715-4FED-8969-8CC71CC7CE63}"/>
+						<State Name="L2" ID="{619EA1DA-B157-4038-AC79-8830A72942AA}"/>
+						<State Name="L3" ID="{4E658CC5-2B85-4B10-984D-3EE286420E8A}"/>
+						<State Name="Other" ID="{051983F6-A283-49BA-9203-3C40787244D4}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Mix_CompositionStateMixing" ID="{4C295A74-75DE-40ED-9CB8-229FD6860387}">
+					<ChildrenList>
+						<State Name="None" ID="{2542C809-1814-4F81-BADB-DD680A0257DD}"/>
+						<State Name="MissionAccomplished" ID="{C76B69AF-9178-4EF1-B99F-F21169B123B0}"/>
+						<State Name="Normal" ID="{77FD802C-E9AC-4D58-99A3-BEC096068C49}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Mix_IsSeason3" ID="{05B80F85-70B1-4FC1-8F1E-CEFCE3EC2522}">
+					<ChildrenList>
+						<State Name="None" ID="{0B1102C3-708C-4081-8530-AC2C868E9C1F}"/>
+						<State Name="False" ID="{F99E689D-4502-4036-B68F-DD35ADE3D9B7}"/>
+						<State Name="True" ID="{77FE5635-D42C-4E6F-83D9-780244D3BAB8}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

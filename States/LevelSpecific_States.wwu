@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5A6F0FA2-AF07-4A99-8758-60B7BF60C99C}" SchemaVersion="97">
+	<States>
+		<WorkUnit Name="LevelSpecific_States" ID="{5A6F0FA2-AF07-4A99-8758-60B7BF60C99C}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="Evergreen" ID="{FACAA785-8181-4F66-B892-5E0F91E5AB87}" PersistMode="Reference"/>
+				<WorkUnit Name="Gecko" ID="{74208B25-7B9A-44EE-8325-819D590AEAB4}" PersistMode="Reference"/>
+				<WorkUnit Name="Lunaria" ID="{AA97A64A-2216-475C-A91D-69F9E6EFE0CF}" PersistMode="Reference"/>
+				<StateGroup Name="Arrival_Ambience" ID="{BF4A9A34-9076-4E63-8690-D57FE542AFC5}">
+					<ChildrenList>
+						<State Name="None" ID="{3F36B269-033E-41CC-9DEC-62FD43AE9A83}"/>
+						<State Name="Cutscene" ID="{8DAEB5F2-FD61-4E68-A878-9BB02E33CF3F}"/>
+						<State Name="Gameplay" ID="{D4BC5AEE-E21E-4737-938C-01B8E10922BE}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

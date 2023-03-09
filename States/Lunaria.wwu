@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{AA97A64A-2216-475C-A91D-69F9E6EFE0CF}" SchemaVersion="97" RootDocumentID="{5A6F0FA2-AF07-4A99-8758-60B7BF60C99C}">
+	<States>
+		<WorkUnit Name="Lunaria" ID="{AA97A64A-2216-475C-A91D-69F9E6EFE0CF}" OwnerID="{5A6F0FA2-AF07-4A99-8758-60B7BF60C99C}" PersistMode="Nested">
+			<ChildrenList>
+				<StateGroup Name="Lunaria_Intro" ID="{12B37C36-599B-4869-A318-30C8B9B00DF7}">
+					<ChildrenList>
+						<State Name="None" ID="{8C7D7E32-A1F5-4B7A-AA51-72E3201EC2A8}"/>
+						<State Name="L1" ID="{253329D2-9CA7-4A4B-BB44-2C55A50DEBEE}"/>
+						<State Name="L2" ID="{FEC99624-81D5-43FD-9211-D1B336B2E93C}"/>
+						<State Name="L3" ID="{11DDF219-4EFD-419A-AFC2-89F19F4E9A5E}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Lunaria_Mission_Status" ID="{393EEA4E-3E11-4B1A-9EC5-718421CF9446}">
+					<ChildrenList>
+						<State Name="None" ID="{0F331676-6BEB-4D20-94BF-1FFABCD5B7A6}"/>
+						<State Name="AllTargesEliminated" ID="{407A99D4-93A1-4C2A-90B4-E45FBD2F21AA}"/>
+						<State Name="Early_Exfiltration" ID="{FDD7803C-143C-40ED-AD54-13328870F622}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Lunaria_Dream" ID="{825234FF-2C20-4141-A11C-B62DA5149C12}">
+					<ChildrenList>
+						<State Name="None" ID="{4D48370D-BE9A-4796-A0EC-63ED5F2C3607}"/>
+						<State Name="InDream" ID="{D798B566-1DBF-46D8-BEA2-0DBE4CCB14A5}"/>
+						<State Name="InGameplay" ID="{3AC5C6EB-DFF8-44F9-9744-A5ADBC2D403E}"/>
+						<State Name="InGoldRush" ID="{F49899DD-1568-4EBF-AD06-D381B47D80CE}"/>
+						<State Name="PostMission" ID="{CED8EA33-C897-4F04-B054-0DB49B999096}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>

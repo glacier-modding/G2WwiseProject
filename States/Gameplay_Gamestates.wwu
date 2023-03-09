@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2291714B-117D-4712-9CA1-6AA1823625BE}" SchemaVersion="97">
+	<States>
+		<WorkUnit Name="Gameplay_Gamestates" ID="{2291714B-117D-4712-9CA1-6AA1823625BE}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="Gameplay_Missionspecific_Mix" ID="{550374D5-0B1F-4C2B-954E-6DD4E4DA5F31}">
+					<ChildrenList>
+						<State Name="None" ID="{6326A769-36D0-4258-B674-2D51D433ED11}"/>
+						<State Name="Bull" ID="{17694B8C-98DD-4C21-869B-C73E5EEE8149}"/>
+						<State Name="Bulldog" ID="{E33A8D87-A0EC-4723-95BA-C8E325267724}"/>
+						<State Name="Copperhead" ID="{B6EDBE26-3D43-4DEE-AAF8-36C367823019}"/>
+						<State Name="Cornflower" ID="{54B363CC-3197-4DBA-A8A6-A9B04E8D4B28}"/>
+						<State Name="Falcon" ID="{5811E04E-3064-4055-8CCC-7001B7B704AC}"/>
+						<State Name="Flamingo" ID="{6F85DA27-C3FE-40C5-A1C4-B6D5CF9BA558}"/>
+						<State Name="Fox" ID="{622A71EC-F0F6-4E0C-8550-FD7C9706B6FA}"/>
+						<State Name="Fox_Intro" ID="{47EDBA83-2CF5-477D-B9B4-D18CCC04806A}"/>
+						<State Name="Gecko" ID="{68EF622A-9420-40DD-A989-7F754918EEA0}"/>
+						<State Name="Hawk" ID="{AC4FA896-C6A8-45FF-9519-8D473C6DE6BB}"/>
+						<State Name="Hippo" ID="{5885406B-9ADD-4335-9BBC-5CAFA7FBFF18}"/>
+						<State Name="Llama" ID="{63A59172-532D-485F-838F-35BA1B524AF4}"/>
+						<State Name="Magpie" ID="{64ED1147-2E35-4DB6-BBBD-7EAE93D8FCBC}"/>
+						<State Name="Mamba" ID="{80E95262-A243-4144-9E1A-626A8984E0B3}"/>
+						<State Name="Mongoose" ID="{1175F2A8-AD56-4888-BB4E-707AD6716F7B}"/>
+						<State Name="Octopus" ID="{A212C1B0-6FCC-4421-99A6-B4C16A555E34}"/>
+						<State Name="Peacock" ID="{D96C6461-0629-437F-B6EC-6C0E5B32087E}"/>
+						<State Name="PolarBear" ID="{9C49036D-5D06-42F8-86FB-32EF1CA1E435}"/>
+						<State Name="PolarBear_VR" ID="{B9703C3F-E92E-4CD7-8683-EA8A722FEB78}"/>
+						<State Name="PolerBear_Arrival" ID="{BE3D43A0-D7AE-4BF8-9868-537507C37D89}"/>
+						<State Name="Python" ID="{FC2AEBA1-B1C3-478D-8217-07E879B7C98C}"/>
+						<State Name="Raccoon" ID="{4260FF10-16DF-4D59-907B-71D4D6C55844}"/>
+						<State Name="Rat" ID="{3B8CA9FF-9E35-4451-906B-F3E6023E050B}"/>
+						<State Name="Rocky_Dugong" ID="{DD01537D-13A2-4045-947A-DF4E7A0441B9}"/>
+						<State Name="Safehouse" ID="{C5B64914-A4B7-4B88-98F5-E5C04ED19CCF}"/>
+						<State Name="Sheep" ID="{22DB81FF-D06F-4F5E-8709-E6A610855A30}"/>
+						<State Name="Skunk" ID="{4A8E052F-45A0-4E1B-B698-9230B4049236}"/>
+						<State Name="SmoothSnake" ID="{20693081-DB00-40B7-8D20-05FEA1CB09EB}"/>
+						<State Name="SnowCrane" ID="{6F8860B2-08BB-473F-8EFC-384961425871}"/>
+						<State Name="Spider" ID="{543B1057-384D-49B3-BC52-BDF165EC74F1}"/>
+						<State Name="Stingray" ID="{F371C123-419B-4794-9F21-779FA0A29452}"/>
+						<State Name="Tiger" ID="{F8295CED-8353-41D1-BDC7-B636075A42B1}"/>
+						<State Name="Wolverine" ID="{E3FED285-0371-40B0-B867-686F64F19374}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Gameplay_LeavingMissionArea" ID="{9281A84F-9430-4D99-ABA0-8E68934C9197}">
+					<ChildrenList>
+						<State Name="None" ID="{B73C5BD8-7AC3-4398-90F8-A41DC3447B52}"/>
+						<State Name="InsideMissionArea" ID="{C86F8931-D036-4987-AD9D-4EC96ACB1096}"/>
+						<State Name="OutsideMissionArea" ID="{A1FB11E5-158A-4AD2-BADE-F3160A037856}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="VR_Gameplay_OutfitMuffle" ID="{61D10F79-7C93-4329-9211-63983F1B9A5D}">
+					<ChildrenList>
+						<State Name="None" ID="{CB2DDCCF-E756-4FFA-9C4F-BDB44DB5FA68}"/>
+						<State Name="Muffled" ID="{B19730DA-35D8-4690-8570-A5F32275B103}"/>
+						<State Name="Normal" ID="{84A761F4-461B-49E3-8EE4-873B5F94096D}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Gameplay_GameModeSpecific_Mix" ID="{0602D373-DA90-4039-ABCA-0B8EEE3767E9}">
+					<ChildrenList>
+						<State Name="None" ID="{56A3BAF5-220A-405C-94E9-34BC7F46E2D1}"/>
+						<State Name="GhostMode" ID="{54CEAC96-F466-414A-86B8-884FECB79EA0}"/>
+						<State Name="Normal" ID="{5AA99AE3-DC1D-4758-8B41-7C6EF11DC9D0}"/>
+						<State Name="VR" ID="{CB7F3B04-3021-4595-8EE2-06FB4CB2B3A1}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="GameFlow_States" ID="{3099E46B-79D7-48F1-B184-D60DCD7A236D}">
+					<ChildrenList>
+						<State Name="None" ID="{DBB370C1-78AA-4E94-B880-C06D4444AB7B}"/>
+						<State Name="Cutscene" ID="{DABE70C5-DD42-4F1A-9EF8-0F87B466FD69}"/>
+						<State Name="EndGame" ID="{FF86F599-26C5-4F80-8504-6318B99D160C}"/>
+						<State Name="FlyInSeqEnd" ID="{D4FA455F-29C2-4209-B14A-4EAE02F90AD0}"/>
+						<State Name="InGame" ID="{F009423B-21E3-4902-BACD-8841D82DE827}"/>
+						<State Name="IntroSeq" ID="{8BDA1F43-17C6-4515-9EA8-8B86138D6611}"/>
+						<State Name="NoGame" ID="{C50FCE4B-9C89-4C3F-9E3E-F65812C6F84C}"/>
+						<State Name="PreGame" ID="{CC6E78E7-815D-44CD-A74E-F9702B88E4D9}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Gameplay_MenuDifficulty" ID="{8369E10F-D3C3-43DD-9F46-7348BBD034C2}">
+					<ChildrenList>
+						<State Name="None" ID="{D398FD1D-F443-4F9F-B260-5624A4141561}"/>
+						<State Name="Normal" ID="{87B3E298-608E-43C7-A778-6CD35968FA5C}"/>
+						<State Name="Pro1" ID="{2FD342D4-DE5A-43AE-A88E-FEEA9B414662}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Gameplay_MovementStates" ID="{F03634F6-DBDE-409E-AE8D-186748AEC495}">
+					<ChildrenList>
+						<State Name="None" ID="{421A1D71-CF81-42F9-8B05-8BEADC6B1E4A}"/>
+						<State Name="CrouchRunning" ID="{A72CB9CE-4A8E-4917-AEAD-0836880AA72C}"/>
+						<State Name="CrouchSlowWalk" ID="{5BCE779B-20B9-4251-AED6-65C98D163C5B}"/>
+						<State Name="CrouchWalk" ID="{82D2823C-4F14-46CE-A8FD-5876957FF52C}"/>
+						<State Name="Running" ID="{9279F7BB-0478-4963-8CC5-0FF5EEB05772}"/>
+						<State Name="Walking" ID="{9D0CCBBB-198E-41FC-8CB4-9E8C6A4B8F84}"/>
+						<State Name="Walking_Slowly" ID="{86DAF54F-1EDE-4A4E-BFAA-78A05052623F}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Gameplay_GameStates" ID="{F3E2BDEC-AA2B-40B0-8661-EA81880EFC98}">
+					<ChildrenList>
+						<State Name="None" ID="{AB8C64E5-F178-42A4-837C-5C70FD4C8E46}"/>
+						<State Name="Dead" ID="{59EF9A91-92D8-4A55-A8F7-F89A3DFF496D}"/>
+						<State Name="InCloset" ID="{95075407-83ED-434C-85AD-9AD15C526B86}"/>
+						<State Name="InPauseMenu" ID="{4A456253-DEA6-4CEA-BD68-4644AE64A0CB}"/>
+						<State Name="InPauseMenu_AllowScoreMusic" ID="{1DFB0327-751A-4379-83C1-EE41776297C0}"/>
+						<State Name="Instinct" ID="{9D3A88CE-5B61-4D66-BC8A-42434E7AAAFC}"/>
+						<State Name="InVent" ID="{8BB0802D-F6FD-43FC-A019-013281860767}"/>
+						<State Name="InVent_Peeking" ID="{351634BD-ED04-43DF-B7F7-7A1246D0DF48}"/>
+						<State Name="LookAt" ID="{421F45C1-337B-46D2-ADD0-3C60629DE064}"/>
+						<State Name="Moment" ID="{8C677E64-C0CB-4EFF-AB8A-689C6881A5F9}"/>
+						<State Name="Normal_Ambient" ID="{04CB8A76-E6A2-49B8-881C-3AB3ECD9DB39}"/>
+						<State Name="Normal_Combat" ID="{C074E49B-BFC7-4269-A763-1A3407AF486A}"/>
+						<State Name="Opportunity_Eavesdrop" ID="{72F7E2FD-36F0-4F69-9F93-BC38A8374FC5}"/>
+						<State Name="PointShooting" ID="{63824250-8E13-414E-B18C-24E0087072CF}"/>
+						<State Name="TutorialFreeze" ID="{E7882218-9281-4482-921A-2202667214E3}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Gameplay_CloseCombat" ID="{70A7AEB6-FF43-4D3E-85C4-EB128930AC41}">
+					<ChildrenList>
+						<State Name="None" ID="{9F21C05B-B2F9-4CD7-BDF1-85FAF2B5EF98}"/>
+						<State Name="SlowMotion_Active" ID="{4D07FCFA-E272-49DE-8200-07ADBC2AEC9B}"/>
+						<State Name="SlowMotion_Inactive" ID="{1FE09BDB-7057-4521-8F6D-AA40EAF01D4B}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Gameplay_HitmanInVision" ID="{9B43DF15-1072-4D7F-9773-A519F1A929B6}">
+					<ChildrenList>
+						<State Name="None" ID="{B604040E-B39B-45D5-B004-F05D2BF0F986}"/>
+						<State Name="False" ID="{C8BDA797-4239-4007-A85F-E805A7E262E6}"/>
+						<State Name="True" ID="{EFCE2B90-8601-44F1-BA2E-0FF7A0839A71}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Gameplay_WeaponStates" ID="{523F303D-B7D4-4D76-A5C8-3F83AD7EFA6C}">
+					<ChildrenList>
+						<State Name="None" ID="{C04E4607-EE3A-4124-9CC0-57656A5FEF78}"/>
+						<State Name="Sniper_Zoom_Level1" ID="{49770235-4FC2-42D1-B04D-BDC7D4737547}"/>
+						<State Name="Sniper_Zoom_Level2" ID="{7C22CD78-EBC3-4714-A9E5-6A12BD117970}"/>
+						<State Name="Sniper_Zoom_Level3" ID="{ED2E6443-0E14-4289-ABB5-BBE2FBC272D7}"/>
+					</ChildrenList>
+				</StateGroup>
+				<StateGroup Name="Gameplay_Takedown_Subdue" ID="{5821984C-7500-48E1-8080-62C7DD98C8C9}">
+					<ChildrenList>
+						<State Name="None" ID="{56AE5A6E-69C5-4803-A995-99164E4044F6}"/>
+						<State Name="Engage" ID="{C0908781-BC97-4674-A6E4-E67047B1BBCF}"/>
+						<State Name="Normal" ID="{CF3AD12D-D253-4339-B4F0-D8FCAC4C03EE}"/>
+					</ChildrenList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>
