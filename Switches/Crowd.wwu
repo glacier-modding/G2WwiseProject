@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{601603B2-8DC3-41A2-BE8B-BF2D027EC7C1}" SchemaVersion="97">
+	<Switches>
+		<WorkUnit Name="Crowd" ID="{601603B2-8DC3-41A2-BE8B-BF2D027EC7C1}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="FakeCrowdLanguage" ID="{9E00C9B3-7449-4559-B1B1-BD25F10A3F74}">
+					<ChildrenList>
+						<Switch Name="Arabic" ID="{88616A0F-ADC7-45AD-84FE-521F6D4B45DE}"/>
+						<Switch Name="Chinese" ID="{4284180A-1EDB-45F5-840C-884EA975B4A8}"/>
+						<Switch Name="Danish" ID="{ADF87EBF-4C1D-4F39-BC47-904106FCCB67}"/>
+						<Switch Name="English_American" ID="{BB765561-66F8-47A9-AE5E-CE8F6190B015}"/>
+						<Switch Name="English_British" ID="{59E743AE-C857-46C8-A11E-8787B85A2F1E}"/>
+						<Switch Name="French" ID="{0564330D-2EFE-4C5B-8BED-46BF2FB3A14B}"/>
+						<Switch Name="German" ID="{E8A417D0-2AD7-4F0C-9460-D3DD398F7049}"/>
+						<Switch Name="Italian" ID="{DCD67DD4-7376-47C8-ADD2-AF2890D73812}"/>
+						<Switch Name="Japanese" ID="{AE1B99C3-D172-46D2-8E90-5E67E9A8EB2E}"/>
+						<Switch Name="Spanish" ID="{80BD82A5-E653-4377-A285-0D46AFEC673A}"/>
+						<Switch Name="Swedish" ID="{132ADAF9-574F-4BB5-9D3C-D733F74D0925}"/>
+						<Switch Name="Thai" ID="{F3C527BB-8D01-431C-BB1B-79B9FD78CF01}"/>
+						<Switch Name="Unique_Roadie" ID="{A8A5667B-7B6A-4FF9-B8AA-50E5FB37B140}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>
