@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{41AF0E74-8DF0-48D4-96D4-B40DF6B75DF8}" SchemaVersion="97">
+	<AudioObjects>
+		<WorkUnit Name="soundtags" ID="{41AF0E74-8DF0-48D4-96D4-B40DF6B75DF8}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="In-world_AI_Robotic" ID="{6465E5EA-E8C7-486B-A560-18FBF5C18CC3}" ShortID="393746340">
+					<PropertyList>
+						<Property Name="3DSpatialization" Type="int16" Value="2"/>
+						<Property Name="EnableDiffraction" Type="bool" Value="True"/>
+						<Property Name="IsStreamingEnabled" Type="bool">
+							<ValueList>
+								<Value>False</Value>
+							</ValueList>
+						</Property>
+						<Property Name="IsVoice" Type="bool" Value="True"/>
+						<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-9</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Attenuation">
+							<Custom>
+								<Attenuation Name="Attenuation (Custom)" ID="{5648E807-E16B-405A-8D90-222000836502}" ShortID="302545410">
+									<PropertyList>
+										<Property Name="RadiusMax" Type="Real64" Value="25"/>
+									</PropertyList>
+									<CurveUsageInfoList>
+										<VolumeDryUsage>
+											<CurveUsageInfo Platform="Linked" CurveToUse="Custom">
+												<Curve Name="VolumeDry" ID="{5AF1AD43-3DA9-41E7-8105-13CDAA4374EC}">
+													<PropertyList>
+														<Property Name="Flags" Type="int32" Value="3"/>
+													</PropertyList>
+													<PointList>
+														<Point>
+															<XPos>0</XPos>
+															<YPos>0</YPos>
+															<Flags>5</Flags>
+														</Point>
+														<Point>
+															<XPos>25</XPos>
+															<YPos>-200</YPos>
+															<Flags>37</Flags>
+														</Point>
+													</PointList>
+												</Curve>
+											</CurveUsageInfo>
+										</VolumeDryUsage>
+										<VolumeWetGameUsage>
+											<CurveUsageInfo Platform="Linked" CurveToUse="UseVolumeDry"/>
+										</VolumeWetGameUsage>
+										<VolumeWetUserUsage>
+											<CurveUsageInfo Platform="Linked" CurveToUse="UseVolumeDry"/>
+										</VolumeWetUserUsage>
+										<LowPassFilterUsage>
+											<CurveUsageInfo Platform="Linked" CurveToUse="None"/>
+										</LowPassFilterUsage>
+										<HighPassFilterUsage>
+											<CurveUsageInfo Platform="Linked" CurveToUse="None"/>
+										</HighPassFilterUsage>
+										<SpreadUsage>
+											<CurveUsageInfo Platform="Linked" CurveToUse="None"/>
+										</SpreadUsage>
+										<FocusUsage>
+											<CurveUsageInfo Platform="Linked" CurveToUse="None"/>
+										</FocusUsage>
+									</CurveUsageInfoList>
+								</Attenuation>
+							</Custom>
+						</Reference>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C2AE085-1B72-410A-B4B1-A87D3834E8AB}"/>
+						</Reference>
+						<Reference Name="Effect0">
+							<Custom CreatedFrom="{D9586A30-FF0D-4DCC-89C5-04CDC4716ED6}">
+								<Effect Name="Robotic_Voice" ID="{EAA985DC-DD61-4C31-AC19-1C7E2EBC730B}" ShortID="185199671" PluginName="Wwise Flanger" CompanyID="0" PluginID="125" PluginType="3">
+									<PropertyList>
+										<Property Name="DelayTime" Type="Real32" Value="8.5"/>
+										<Property Name="DryLevel" Type="Real32" Value="0.3"/>
+										<Property Name="FeedBackLevel" Type="Real32" Value="0.9"/>
+										<Property Name="ModDepth" Type="Real32" Value="10"/>
+										<Property Name="ModFrequency" Type="Real32" Value="5.5"/>
+										<Property Name="ModPWM" Type="Real32" Value="0"/>
+									</PropertyList>
+								</Effect>
+							</Custom>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Dialogue" ID="{B34D4B9B-B202-4D49-8796-4FE37BAE38C6}" WorkUnitID="{24E23A41-B9EB-4210-91D1-95D6A4B75880}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<ExternalSource Name="ExternalSource" ID="{180DD89D-BBBD-40AF-9EF0-6A2B77B3567A}">
+							<Comment>Do not change this (The game uses "ExternalSource" as an external source cookie for all Dialogue Events)</Comment>
+							<Language>English(US)</Language>
+						</ExternalSource>
+					</ChildrenList>
+					<PositioningInfo>
+						<Position Name="" ID="{5EBB393F-B8C8-4F65-A0CF-C2081285325E}"/>
+					</PositioningInfo>
+					<ActiveSourceList>
+						<ActiveSource Name="ExternalSource" ID="{180DD89D-BBBD-40AF-9EF0-6A2B77B3567A}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

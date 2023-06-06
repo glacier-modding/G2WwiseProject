@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{EDB2B047-7D65-4844-B0F5-569034588863}" SchemaVersion="97">
+	<SoundBanks>
+		<WorkUnit Name="DialogEventPreview" ID="{EDB2B047-7D65-4844-B0F5-569034588863}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Sweet_Templates_Example_SoundBank" ID="{92D323EB-B947-4152-8BE9-0F104C991C7A}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_In_world_AI_Robotic" ID="{6FE433EE-9066-4362-A9C2-51EC3A6F1085}" WorkUnitID="{1328DFD5-CEFA-430B-ADC4-6E7487E0E18C}" Origin="Manual" Filter="3"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
