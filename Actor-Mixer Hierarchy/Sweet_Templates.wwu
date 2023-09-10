@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{41AF0E74-8DF0-48D4-96D4-B40DF6B75DF8}" SchemaVersion="97">
 	<AudioObjects>
-		<WorkUnit Name="soundtags" ID="{41AF0E74-8DF0-48D4-96D4-B40DF6B75DF8}" PersistMode="Standalone">
+		<WorkUnit Name="Sweet_Templates" ID="{41AF0E74-8DF0-48D4-96D4-B40DF6B75DF8}" PersistMode="Standalone">
 			<ChildrenList>
 				<Sound Name="In-world_AI_Robotic" ID="{6465E5EA-E8C7-486B-A560-18FBF5C18CC3}" ShortID="393746340">
 					<PropertyList>

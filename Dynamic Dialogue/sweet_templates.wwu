@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{1328DFD5-CEFA-430B-ADC4-6E7487E0E18C}" SchemaVersion="97">
 	<DynamicDialogue>
-		<WorkUnit Name="sweet_templates" ID="{1328DFD5-CEFA-430B-ADC4-6E7487E0E18C}" PersistMode="Standalone">
+		<WorkUnit Name="Sweet_Templates" ID="{1328DFD5-CEFA-430B-ADC4-6E7487E0E18C}" PersistMode="Standalone">
 			<ChildrenList>
 				<DialogueEvent Name="Play_In_world_AI_Robotic" ID="{6FE433EE-9066-4362-A9C2-51EC3A6F1085}">
 					<PropertyList>
@@ -9,7 +9,7 @@
 					<EntryList>
 						<Entry>
 							<AudioNodeInfo>
-								<AudioNodeRef Name="in_world_ai_robotic" ID="{6465E5EA-E8C7-486B-A560-18FBF5C18CC3}" WorkUnitID="{41AF0E74-8DF0-48D4-96D4-B40DF6B75DF8}" Platform="Linked"/>
+								<AudioNodeRef Name="In_world_AI_Robotic" ID="{6465E5EA-E8C7-486B-A560-18FBF5C18CC3}" WorkUnitID="{41AF0E74-8DF0-48D4-96D4-B40DF6B75DF8}" Platform="Linked"/>
 							</AudioNodeInfo>
 						</Entry>
 					</EntryList>
