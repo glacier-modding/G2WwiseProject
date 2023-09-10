@@ -27,6 +27,9 @@
 												<AuxBus Name="FX_ConvReverb_Room_Concrete_Medium" ID="{1B382733-007B-4DC0-B9C5-1E3B917EE0D0}"/>
 												<AuxBus Name="FX_ConvReverb_Corridor_Concrete_Medium" ID="{0B28B5CA-72FA-4DD1-804B-489EEF6122E3}"/>
 												<AuxBus Name="FX_ConvReverb_Room_Concrete_Small" ID="{A33B5B1D-BB62-4FC1-9A3B-1AA54D377187}"/>
+												<AuxBus Name="FX_ConvReverb_Tunnel_Concrete_Small" ID="{4ABF70FA-4B4C-4721-907E-155865F7BAD1}"/>
+												<AuxBus Name="FX_ConvReverb_Tunnel_Concrete_Medium" ID="{D52050CE-4D3F-493E-A240-70E371B97BFD}"/>
+												<AuxBus Name="FX_ConvReverb_Tunnel_Concrete_Large" ID="{A61EC62A-3A32-4806-A58B-B506A50C52B6}"/>
 											</ChildrenList>
 										</AuxBus>
 										<AuxBus Name="Room_Domestic" ID="{5D949E8F-4381-43A0-B016-F2F4AD3F2C91}">
@@ -37,8 +40,20 @@
 												<AuxBus Name="FX_ConvReverb_Room_Domestic_Small" ID="{05C083C8-D7CF-49B2-A62A-010E35ECEF95}"/>
 											</ChildrenList>
 										</AuxBus>
-										<AuxBus Name="Room_Metal" ID="{F3A6D178-61FD-4A6F-B886-D43B6A4CC710}"/>
-										<AuxBus Name="Room_Stone" ID="{3B527BD9-77E4-45E0-85E7-6272951EC31A}"/>
+										<AuxBus Name="Room_Metal" ID="{F3A6D178-61FD-4A6F-B886-D43B6A4CC710}">
+											<ChildrenList>
+												<AuxBus Name="FX_ConvReverb_Tunnel_Metal_Small" ID="{8EA1B4A1-465E-497F-A0E0-F2E3031CEEAB}"/>
+												<AuxBus Name="FX_ConvReverb_Tunnel_Metal_Medium" ID="{1C2E8A28-63CE-4BBA-B1B7-EDAC62614E19}"/>
+												<AuxBus Name="FX_ConvReverb_Tunnel_Metal_Large" ID="{E72944CF-6023-487C-8693-4A4A3E8A7B6D}"/>
+											</ChildrenList>
+										</AuxBus>
+										<AuxBus Name="Room_Stone" ID="{3B527BD9-77E4-45E0-85E7-6272951EC31A}">
+											<ChildrenList>
+												<AuxBus Name="FX_ConvReverb_Room_Stone_Large" ID="{958F21E2-B9EB-4D45-9452-7714BB427632}"/>
+												<AuxBus Name="FX_ConvReverb_Room_Stone_Medium" ID="{49B8864F-BE15-43E4-98C2-DEE6682A3F2A}"/>
+												<AuxBus Name="FX_ConvReverb_Room_Stone_Small" ID="{06596512-A2D6-4F01-885A-C01E82CDB651}"/>
+											</ChildrenList>
+										</AuxBus>
 										<AuxBus Name="Room_Wood" ID="{F89AACF5-B055-4E6E-A21E-D823F81A6A77}">
 											<ChildrenList>
 												<AuxBus Name="FX_ConvReverb_Room_Wood_Small" ID="{901A614A-2B84-48FA-9E09-10D85A40EE60}"/>
@@ -46,8 +61,18 @@
 												<AuxBus Name="FX_ConvReverb_Room_Wood_Large" ID="{99E88B31-916D-4A32-98D9-3FC5FB73D5C6}"/>
 											</ChildrenList>
 										</AuxBus>
-										<AuxBus Name="Room_Tile" ID="{0368A246-3002-48F9-98F6-96CD6B505F39}"/>
-										<AuxBus Name="Stairwell_Concrete" ID="{D9536757-188E-4AD9-AECD-95CD6B2D32E4}"/>
+										<AuxBus Name="Room_Tile" ID="{0368A246-3002-48F9-98F6-96CD6B505F39}">
+											<ChildrenList>
+												<AuxBus Name="FX_ConvReverb_Room_Tile_Large" ID="{58C316D0-AC6B-4DE3-9AB7-FF407B265A30}"/>
+												<AuxBus Name="FX_ConvReverb_Room_Tile_Small" ID="{53B52B2F-1D92-4DD0-9447-ABC7A3FDFC42}"/>
+												<AuxBus Name="FX_ConvReverb_Room_Tile_Medium" ID="{F31AA714-AF47-45CB-B428-CE215A8B2B5C}"/>
+											</ChildrenList>
+										</AuxBus>
+										<AuxBus Name="Stairwell_Concrete" ID="{D9536757-188E-4AD9-AECD-95CD6B2D32E4}">
+											<ChildrenList>
+												<AuxBus Name="FX_ConvReverb_Stairwell_Concrete_Medium" ID="{D2A1C266-6ACC-4A8F-A16E-4833D9FCA93C}"/>
+											</ChildrenList>
+										</AuxBus>
 									</ChildrenList>
 								</AuxBus>
 								<AuxBus Name="Outdoor" ID="{23A585D9-FF28-4B02-A2DB-2B5E753DB9DE}">
@@ -67,8 +92,10 @@
 												<AuxBus Name="FX_ConvReverb_Urban_Alley_Large" ID="{5AF154F4-915C-4C29-BE2F-F183704EBAE5}"/>
 												<AuxBus Name="FX_ConvReverb_Urban_Alley_Small" ID="{882FF252-994A-405B-9AC1-2CC9639C554F}"/>
 												<AuxBus Name="FX_ConvReverb_Urban_CityRooftop_Large" ID="{3C46C30D-33BA-4B25-888F-10AA27CC5597}"/>
-												<AuxBus Name="FX_ConvReverb_Urban_Alley_CityStreet_Large" ID="{6D379CCC-0033-4CCF-A204-E81947EBAB89}"/>
-												<AuxBus Name="FX_ConvReverb_Urban_Alley_CityStreet_Medium" ID="{050711E4-854C-47B2-BE9A-160CACF22C35}"/>
+												<AuxBus Name="FX_ConvReverb_Urban_CityStreet_Large" ID="{6D379CCC-0033-4CCF-A204-E81947EBAB89}"/>
+												<AuxBus Name="FX_ConvReverb_Urban_CityStreet_Medium" ID="{050711E4-854C-47B2-BE9A-160CACF22C35}"/>
+												<AuxBus Name="FX_ConvReverb_Urban_CityStreet_Small" ID="{8E6179DC-94E7-4D61-870B-EAD21C47D688}"/>
+												<AuxBus Name="FX_ConvReverb_Urban_CityRooftop_Medium" ID="{01E719C3-AA36-4859-A89F-BE0A91D74DE9}"/>
 											</ChildrenList>
 										</AuxBus>
 									</ChildrenList>
@@ -102,6 +129,9 @@
 												<AuxBus Name="FX_ConvReverb_Room_Concrete_Medium_HQ" ID="{4F875B2E-233F-4093-B221-3C52538E5A2D}"/>
 												<AuxBus Name="FX_ConvReverb_Corridor_Concrete_Medium_HQ" ID="{E8FDCA45-E45D-4469-A0CE-E699D85EFA6A}"/>
 												<AuxBus Name="FX_ConvReverb_Room_Concrete_Small_HQ" ID="{DA52D664-D612-49DE-9037-4DF76C2FF76E}"/>
+												<AuxBus Name="FX_ConvReverb_Tunnel_Concrete_Large_HQ" ID="{B23CDDA0-782D-4DF3-9A5E-595AEC7C34A5}"/>
+												<AuxBus Name="FX_ConvReverb_Tunnel_Concrete_Medium_HQ" ID="{60593AFD-5316-4804-9928-B4CBA1C868CB}"/>
+												<AuxBus Name="FX_ConvReverb_Tunnel_Concrete_Small_HQ" ID="{52DA4F7C-DAD0-4245-837D-58F7F31C9BA7}"/>
 											</ChildrenList>
 										</AuxBus>
 										<AuxBus Name="Room_Domestic_HQ" ID="{1DDAF323-783F-4F5E-A70F-D277840FEDE2}">
@@ -112,8 +142,20 @@
 												<AuxBus Name="FX_ConvReverb_Room_Domestic_Small_HQ" ID="{84E59E6F-955F-4055-9658-0C838E2C1655}"/>
 											</ChildrenList>
 										</AuxBus>
-										<AuxBus Name="Room_Metal_HQ" ID="{18E049AA-C6BF-44A0-8B29-B44F423CFDF6}"/>
-										<AuxBus Name="Room_Stone_HQ" ID="{3679316E-0061-41DC-A7FB-0729C70E1487}"/>
+										<AuxBus Name="Room_Metal_HQ" ID="{18E049AA-C6BF-44A0-8B29-B44F423CFDF6}">
+											<ChildrenList>
+												<AuxBus Name="FX_ConvReverb_Tunnel_Metal_Large_HQ" ID="{18EB5929-7AEF-4ABA-AF90-D9B485E859AE}"/>
+												<AuxBus Name="FX_ConvReverb_Tunnel_Metal_Medium_HQ" ID="{FE075E44-16F4-4532-A6CC-F908E73F6132}"/>
+												<AuxBus Name="FX_ConvReverb_Tunnel_Metal_Small_HQ" ID="{661718EE-A82D-42E9-9BEC-442A57B85B6B}"/>
+											</ChildrenList>
+										</AuxBus>
+										<AuxBus Name="Room_Stone_HQ" ID="{3679316E-0061-41DC-A7FB-0729C70E1487}">
+											<ChildrenList>
+												<AuxBus Name="FX_ConvReverb_Room_Stone_Large_HQ" ID="{DFA36589-EAB0-4295-8A7D-9A50673CA458}"/>
+												<AuxBus Name="FX_ConvReverb_Room_Stone_Medium_HQ" ID="{4EDE4D67-9101-4B4D-B117-FAF3E8BB1C32}"/>
+												<AuxBus Name="FX_ConvReverb_Room_Stone_Small_HQ" ID="{C1D3B32F-71AF-4084-8D3E-71D28D629B8B}"/>
+											</ChildrenList>
+										</AuxBus>
 										<AuxBus Name="Room_Wood_HQ" ID="{A803250E-91D4-4C82-805A-606F4277C549}">
 											<ChildrenList>
 												<AuxBus Name="FX_ConvReverb_Room_Wood_Small_HQ" ID="{BC1CAD7E-CC9A-40A1-847B-D39194F50F24}"/>
@@ -121,8 +163,18 @@
 												<AuxBus Name="FX_ConvReverb_Room_Wood_Large_HQ" ID="{89881EA1-EE6C-4A0A-9B19-2A38449DA103}"/>
 											</ChildrenList>
 										</AuxBus>
-										<AuxBus Name="Room_Tile_HQ" ID="{3E12DF19-05D6-47F8-8650-2412FBA80241}"/>
-										<AuxBus Name="Stairwell_Concrete_HQ" ID="{D963CA3F-8115-4FFB-9AA3-AD5621120668}"/>
+										<AuxBus Name="Room_Tile_HQ" ID="{3E12DF19-05D6-47F8-8650-2412FBA80241}">
+											<ChildrenList>
+												<AuxBus Name="FX_ConvReverb_Room_Tile_Large_HQ" ID="{B73F6942-DF97-4C04-88D7-0B804F3F67CB}"/>
+												<AuxBus Name="FX_ConvReverb_Room_Tile_Medium_HQ" ID="{F33D7275-DB8C-4687-B1EF-3692931B6B2C}"/>
+												<AuxBus Name="FX_ConvReverb_Room_Tile_Small_HQ" ID="{E666AD22-1676-44BD-88A0-AE6466C293D0}"/>
+											</ChildrenList>
+										</AuxBus>
+										<AuxBus Name="Stairwell_Concrete_HQ" ID="{D963CA3F-8115-4FFB-9AA3-AD5621120668}">
+											<ChildrenList>
+												<AuxBus Name="FX_ConvReverb_Stairwell_Concrete_Medium_HQ" ID="{DDD6B611-BE4D-4184-BC8A-EF295ADDBC67}"/>
+											</ChildrenList>
+										</AuxBus>
 									</ChildrenList>
 								</AuxBus>
 								<AuxBus Name="Outdoor_HQ" ID="{25BA3755-A210-4616-9111-D192104C6413}">
@@ -142,8 +194,10 @@
 												<AuxBus Name="FX_ConvReverb_Urban_Alley_Large_HQ" ID="{26239E58-9770-4479-B210-E4D79B0375E3}"/>
 												<AuxBus Name="FX_ConvReverb_Urban_Alley_Small_HQ" ID="{7B8617F7-A770-4ADD-A459-A556E6080A2B}"/>
 												<AuxBus Name="FX_ConvReverb_Urban_CityRooftop_Large_HQ" ID="{1FA04EF6-745A-420C-BC19-26EBDC5F5299}"/>
-												<AuxBus Name="FX_ConvReverb_Urban_Alley_CityStreet_Large_HQ" ID="{F80FBB0C-BB85-4D74-B795-03F1588DE2F3}"/>
-												<AuxBus Name="FX_ConvReverb_Urban_Alley_CityStreet_Medium_HQ" ID="{8663219D-8ACE-42E4-A515-A34A68E8EED6}"/>
+												<AuxBus Name="FX_ConvReverb_Urban_CityStreet_Large_HQ" ID="{F80FBB0C-BB85-4D74-B795-03F1588DE2F3}"/>
+												<AuxBus Name="FX_ConvReverb_Urban_CityStreet_Medium_HQ" ID="{8663219D-8ACE-42E4-A515-A34A68E8EED6}"/>
+												<AuxBus Name="FX_ConvReverb_Urban_CityRooftop_Medium_HQ" ID="{957C81C1-9267-4D51-9F51-4148524BA6D7}"/>
+												<AuxBus Name="FX_ConvReverb_Urban_CityStreet_Small_HQ" ID="{22490653-AC33-41AA-9F51-6A9A4201D0D1}"/>
 											</ChildrenList>
 										</AuxBus>
 									</ChildrenList>
