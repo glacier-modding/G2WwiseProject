@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5F3616B4-A9E9-43EC-916E-804F2291093F}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Maldives" ID="{5F3616B4-A9E9-43EC-916E-804F2291093F}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="Maldives_Server_Corruption" ID="{A9B9AA06-C2E5-420E-AE6E-FE0670184566}"/>
+				<GameParameter Name="Maldives_Verticality" ID="{99D642BD-1A20-4BB6-8255-6DAEAE597CEE}"/>
+				<GameParameter Name="Maldives_WindIntensity" ID="{8A753052-8A70-49E4-BCDF-4EDB86D62F69}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

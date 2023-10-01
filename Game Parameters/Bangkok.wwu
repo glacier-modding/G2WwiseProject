@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CE8EF4B6-535C-473B-9DC5-0E92D4609214}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Bangkok" ID="{CE8EF4B6-535C-473B-9DC5-0E92D4609214}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="BandRec_Guitar" ID="{6E7784C5-27B3-4DEC-B93D-A9BEC0C6ACD9}"/>
+				<GameParameter Name="BandRec_Vox" ID="{2CA1A091-0411-4B1A-B51C-051B32BFD7AF}"/>
+				<GameParameter Name="Bangkok_VoltageRegulator" ID="{AC3FEB12-7FB0-44DE-B78A-F163D30E9D68}"/>
+				<GameParameter Name="RTPC_AtriumEvacWalla_Volume" ID="{EFD1E0BE-C23B-44D2-BC91-91B107058F33}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

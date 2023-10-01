@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CF7DF69A-B7E1-4CFE-8BE9-D60FB8C02937}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Llama" ID="{CF7DF69A-B7E1-4CFE-8BE9-D60FB8C02937}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="RTPC_Llama_Winery_Beast_Speed" ID="{49A2CD9F-CD94-40C6-8A28-7507B2113564}"/>
+				<GameParameter Name="RTPC_Llama_Music_DistanceToDiana" ID="{9882B4CF-4DFE-4CE1-AD1E-1193D179DED6}"/>
+				<GameParameter Name="RTPC_Llama_Music_CustomMutingVol" ID="{445CDD0A-58E3-46B7-BFDB-39434A8926E9}"/>
+				<GameParameter Name="RTPC_Llama_Winery_Beast_Pump" ID="{865A93D0-3E35-4CBB-BCD2-C4F00A43F1BD}"/>
+				<GameParameter Name="RTPC_Llama_Music_YatesRevealATT" ID="{1407D372-75F5-41CE-894D-A66576118838}"/>
+				<GameParameter Name="RTPC_Llama_Dry_Heat_Intensity" ID="{D5E64A4A-BBEE-42E0-A4D2-8AA8B1F65644}"/>
+				<GameParameter Name="RTPC_Llama_Dry_Heat_Intensity_Slow" ID="{E7FB87E8-3211-4325-B7C9-317069BF05FC}"/>
+				<GameParameter Name="RTPC_Llama_Fumigation_Unit" ID="{882D2AA2-C147-4473-A192-6C6AB47510E2}"/>
+				<GameParameter Name="RTPC_Llama_Tangoband_Reverb" ID="{B252150F-6CBA-4E69-9B67-F823B8ACC3FA}"/>
+				<GameParameter Name="RTPC_Llama_Dry_Heat_Slow_Bass" ID="{A66F6E49-62F8-49BA-8EEF-C0258DBD5670}"/>
+				<GameParameter Name="RTPC_Llama_Wind_Speed" ID="{1B755903-030B-49F7-A244-1EFFFD3215DC}"/>
+				<GameParameter Name="RTPC_Llama_Dry_Heat_Modulator" ID="{D07BE0AB-5374-4F75-9428-0B7E8C38BC28}"/>
+				<GameParameter Name="RTPC_Vineyard_DangerIntensity" ID="{EF2D013F-EC62-458C-A835-811461514F2D}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

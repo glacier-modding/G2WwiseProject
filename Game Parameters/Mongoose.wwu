@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{DB4E382C-A10F-4FF1-832D-565BC3435CAF}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Mongoose" ID="{DB4E382C-A10F-4FF1-832D-565BC3435CAF}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="SlumDetective_Intense_VOL" ID="{D86952D8-D925-45B1-AEF7-3C1D542CBF34}"/>
+				<GameParameter Name="RTPC_MaelstromScan" ID="{D36C11CA-1A33-4B6B-8D3B-F5B2E00B25F9}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

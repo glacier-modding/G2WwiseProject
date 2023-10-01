@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" SchemaVersion="97">
+	<GameParameters>
+		<WorkUnit Name="LevelSpecific_Parameters" ID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Standalone">
+			<ChildrenList>
+				<WorkUnit Name="Maldives" ID="{5F3616B4-A9E9-43EC-916E-804F2291093F}" PersistMode="Reference"/>
+				<WorkUnit Name="Wolverine" ID="{B5330011-B724-4FF2-AAD8-D2E62ADF0294}" PersistMode="Reference"/>
+				<WorkUnit Name="Rat" ID="{FA48B970-814C-4042-9DA6-92D2B4E982BF}" PersistMode="Reference"/>
+				<WorkUnit Name="Miami" ID="{9C20260A-6C91-4C5A-866E-ACBC5679FC8F}" PersistMode="Reference"/>
+				<WorkUnit Name="Evergreen" ID="{6E3D71E3-5D35-4938-BC19-0A959B1ED510}" PersistMode="Reference"/>
+				<WorkUnit Name="Colombia" ID="{161AD666-DA36-4FDC-A083-8F748C907A3A}" PersistMode="Reference"/>
+				<WorkUnit Name="Llama" ID="{CF7DF69A-B7E1-4CFE-8BE9-D60FB8C02937}" PersistMode="Reference"/>
+				<WorkUnit Name="Fox" ID="{9E22B7E9-98AB-4DD4-8286-52DA5E187533}" PersistMode="Reference"/>
+				<WorkUnit Name="Marrakesh" ID="{E7DA343A-2AC8-43C6-889A-BB7FB2592FDE}" PersistMode="Reference"/>
+				<WorkUnit Name="Magpie" ID="{0A58DBF1-085F-49D2-A238-4AC9E0AB7FFC}" PersistMode="Reference"/>
+				<WorkUnit Name="Lunaria" ID="{7B878386-8DBB-4E56-B5A9-82462198A13E}" PersistMode="Reference"/>
+				<WorkUnit Name="Colorado" ID="{E4CBD30C-DC4F-4A0A-828A-A8A0D4CC1E2B}" PersistMode="Reference"/>
+				<WorkUnit Name="Hippo" ID="{DCF4A7C3-4C74-41AD-A308-31A98E8D5010}" PersistMode="Reference"/>
+				<WorkUnit Name="Bangkok" ID="{CE8EF4B6-535C-473B-9DC5-0E92D4609214}" PersistMode="Reference"/>
+				<WorkUnit Name="Gecko" ID="{F57E4C3A-E75D-4017-B40E-7F729F0A0EB0}" PersistMode="Reference"/>
+				<WorkUnit Name="Sapienza" ID="{9D39E444-6282-42CE-8766-DC46AF8E4549}" PersistMode="Reference"/>
+				<WorkUnit Name="Hollyhock" ID="{397B5CE8-D921-40FB-BF85-14F1DF088DC0}" PersistMode="Reference"/>
+				<WorkUnit Name="Sheep" ID="{01C0C66C-C2D4-4BD9-863B-0F8FF560A503}" PersistMode="Reference"/>
+				<WorkUnit Name="Bulldog" ID="{2A4C91DB-5AE9-439A-906A-622F0EF82BDF}" PersistMode="Reference"/>
+				<WorkUnit Name="Hokkaido" ID="{77AEE6AD-2DCF-4E12-A305-FBC38728C0F3}" PersistMode="Reference"/>
+				<WorkUnit Name="Mongoose" ID="{DB4E382C-A10F-4FF1-832D-565BC3435CAF}" PersistMode="Reference"/>
+				<WorkUnit Name="Paris" ID="{31DE8655-D221-4BE5-9011-843D9258CE2B}" PersistMode="Reference"/>
+				<WorkUnit Name="Frangipani" ID="{E3851CD3-B4BE-4370-B8A5-2FF10F550182}" PersistMode="Reference"/>
+				<WorkUnit Name="Dugong" ID="{7E79B628-CCB8-48FE-9D13-CC5E521A72C9}" PersistMode="Reference"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

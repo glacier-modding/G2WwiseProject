@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{6E3D71E3-5D35-4938-BC19-0A959B1ED510}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Evergreen" ID="{6E3D71E3-5D35-4938-BC19-0A959B1ED510}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="RTPC_Evergreen_Center_Gearwall_Pickup" ID="{CA7B7027-287D-4562-937A-3C9CA3EDCA3F}"/>
+				<GameParameter Name="RTPC_Evergreen_Distance_MissionCentre" ID="{CF6CFB5E-FA46-4BAF-8F7D-067D88053AF2}"/>
+				<GameParameter Name="RTPC_Evergreen_Safe_Distance" ID="{CC61AE8A-2ADE-4AEB-9E04-01BE61885FD3}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

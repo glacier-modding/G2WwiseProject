@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B5330011-B724-4FF2-AAD8-D2E62ADF0294}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Wolverine" ID="{B5330011-B724-4FF2-AAD8-D2E62ADF0294}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="RTPC_Wolv_Music_Office_Custom_Intensity" ID="{CA6E6633-3FA8-4A09-83A0-8B6C80BC0D91}"/>
+				<GameParameter Name="RTPC_Wolverine_Tunnel" ID="{7D3F9BCC-8651-4A6C-B179-2226CAD8D857}"/>
+				<GameParameter Name="RTPC_Wolverine_Nightmare_VO_LPF" ID="{A3317DEF-9C56-420A-9C51-1168B59A65B8}"/>
+				<GameParameter Name="RTPC_Wolv_Music_MilitaryTalk_Intensity" ID="{142C44BA-3D85-482D-A4D5-CC66535513D6}"/>
+				<GameParameter Name="RTPC_Wolv_Music_Office_Custom_02_Intensity" ID="{68CE61CB-2B6D-43FB-AD69-E42ECEBFCB55}"/>
+				<GameParameter Name="RTPC_Wolverine_Freeze_Stage" ID="{94B9505D-E79F-43EB-976D-D1CC9E3CAA34}"/>
+				<GameParameter Name="RTPC_Wolv_Music_GraveStone_Intensity" ID="{0494D89F-E9A9-49DF-882F-531FA7D3F005}"/>
+				<GameParameter Name="RTPC_Wolverine_Nightmare_VO_EQ" ID="{54074286-7DB9-4991-ADD4-3AFF5DF9BEED}"/>
+				<GameParameter Name="RTPC_EdwardsConfrontation_L2_Intensity" ID="{68730C3A-7E43-447D-A749-B5A26FF1A9EE}"/>
+				<GameParameter Name="RTPC_EdwardsFreeRoam_L2_Intensity" ID="{FEF67717-C7F9-40A0-8579-391A50E3AC05}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

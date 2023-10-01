@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{FA48B970-814C-4042-9DA6-92D2B4E982BF}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Rat" ID="{FA48B970-814C-4042-9DA6-92D2B4E982BF}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="RTPC_Rat_Abstract_City" ID="{C621C1B1-43F1-4F1E-8525-D695F0326307}"/>
+				<GameParameter Name="RTPC_Rat_Facility_Light_Glare" ID="{AB3CAF0E-FBD2-451B-9A32-2E08F1A5E991}"/>
+				<GameParameter Name="RTPC_Rat_Music_CloseToCoreIntensity" ID="{5892DE5D-3D39-4D44-B2CA-FEFC3DD8DBEC}"/>
+				<GameParameter Name="RTPC_Rat_Neonlight_RedGreen" ID="{3492DF0D-F01F-454D-9A8E-3F0B6EC1CDED}"/>
+				<GameParameter Name="RTPC_Rat_Drone_Speed" ID="{CC04E7C4-EF25-40D9-B7EC-B1052D79BEB6}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

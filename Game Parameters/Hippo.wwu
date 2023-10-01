@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{DCF4A7C3-4C74-41AD-A308-31A98E8D5010}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Hippo" ID="{DCF4A7C3-4C74-41AD-A308-31A98E8D5010}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="Hippo_Colombia_Opportunity_Submarine_Rev" ID="{70A55B7D-F85C-4605-8D36-36F4E7186ADF}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

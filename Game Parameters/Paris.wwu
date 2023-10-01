@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{31DE8655-D221-4BE5-9011-843D9258CE2B}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Paris" ID="{31DE8655-D221-4BE5-9011-843D9258CE2B}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="RTPC_PARIS_FashionShowSpeech_MuteCrowdWalla" ID="{1826C6B3-7B2C-4003-BF81-424C9309B02A}"/>
+				<GameParameter Name="RTPC_PARIS_AnnouncerDucking" ID="{EEF846B3-A92C-48FA-8802-DAC19629B00C}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

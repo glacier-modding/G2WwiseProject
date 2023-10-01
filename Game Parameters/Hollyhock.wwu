@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{397B5CE8-D921-40FB-BF85-14F1DF088DC0}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Hollyhock" ID="{397B5CE8-D921-40FB-BF85-14F1DF088DC0}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="RTPC_Hollyhock_Saferoom" ID="{513E4F9E-704B-43C8-99F0-8344763B0814}"/>
+				<GameParameter Name="RTPC_Hollyhock_Timer_Wave1" ID="{4B87D723-570D-45BB-91E9-7BD87AAD26BD}"/>
+				<GameParameter Name="RTPC_Hollyhock_Music_Intensity_L2" ID="{9972FA2C-3210-4948-B0FA-D4309C194087}"/>
+				<GameParameter Name="RTPC_Hollyhock_Light_Glare_Intensity" ID="{307847CE-2EAD-4C77-8428-2107BF74DC32}"/>
+				<GameParameter Name="RTPC_Hollyhock_Music_Intensity_L3" ID="{99EA2043-D4E1-4518-885D-5119D457ACDB}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

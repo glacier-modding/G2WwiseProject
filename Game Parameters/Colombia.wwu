@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{161AD666-DA36-4FDC-A083-8F748C907A3A}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Colombia" ID="{161AD666-DA36-4FDC-A083-8F748C907A3A}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="Colombia_Worker_Activity" ID="{8197E798-B18A-4D4D-A779-743C4DBD725C}"/>
+				<GameParameter Name="Colombia_ConstructionSite_WaterfallDistance" ID="{C1A3D73C-D66D-4104-9FE7-C8D5172A7641}"/>
+				<GameParameter Name="Colombia_CocoaField_WaterfallDistance" ID="{525BD2A5-A640-49C6-B379-E22D065E4CB4}"/>
+				<GameParameter Name="Colombia_ConcreteMixerState" ID="{0002D119-4ABC-4431-8C52-A43C0AAA1154}"/>
+				<GameParameter Name="Colombia_Cocoa_Movement" ID="{9EC4DE40-E3A1-4133-BC9C-61400F3F2F62}"/>
+				<GameParameter Name="Colombia_ConstructionSite_Waterfall_BridgeVolume" ID="{803F6182-BCD2-466D-B28D-095F9F2A9934}"/>
+				<GameParameter Name="Colombia_DrummersHouse_Music_Distance" ID="{3C61DE1E-B160-44DC-9805-F01BEF5DA35E}"/>
+				<GameParameter Name="Colombia_SecretCave_PressurePads" ID="{F2B80D26-A46F-4B13-9755-41F06552A92B}"/>
+				<GameParameter Name="Colombia_Cave_WaterfallDistance" ID="{8DAD2A0F-EB0A-41C4-B568-C27BA09FF3B1}"/>
+				<GameParameter Name="Colombia_Cave_Waterfall_Occlusion" ID="{89ED8878-1D90-4E05-846A-7D4108D500C8}"/>
+				<GameParameter Name="Colombia_CocoaFields_River_Speed" ID="{0779E5A7-425F-4808-98FC-73882868FFD7}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9E22B7E9-98AB-4DD4-8286-52DA5E187533}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Fox" ID="{9E22B7E9-98AB-4DD4-8286-52DA5E187533}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="RTPC_Fox_Fumigation_Unit" ID="{8D91B122-D45B-477A-AEF1-DB0ACE67CD6C}"/>
+				<GameParameter Name="RTPC_Fox_Intro_GasStationAmb" ID="{32B47D20-C1FE-4EF9-A735-C3D5831D409F}"/>
+				<GameParameter Name="RTPC_Fox_TechnoHaptics" ID="{9A56FC70-1C57-4086-BCF5-86A7C939D95C}"/>
+				<GameParameter Name="RTPC_Fox_Chillout_Evil_Mask" ID="{D065984A-4E3C-4C78-A67F-6CD6AC9D01FE}"/>
+				<GameParameter Name="RTPC_Fox_MA_VeryClose" ID="{64526CDF-3CDF-4517-BD0E-36A4FAD0E393}"/>
+				<GameParameter Name="RTPC_Fox_TechnoVol" ID="{71C48C73-B640-4984-8980-7E01BA2A12A0}"/>
+				<GameParameter Name="RTPC_Fox_Debug_ClickVol" ID="{85B8DF3E-96FC-4F61-A3C8-C9327E8112BD}"/>
+				<GameParameter Name="RTPC_Fox_DeafIntensity" ID="{5F4DED7E-7338-46BF-AF54-BE3783B7F4B1}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

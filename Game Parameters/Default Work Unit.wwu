@@ -25,25 +25,6 @@
 				<GameParameter Name="L1_Intensity" ID="{65A0779A-0085-4FAD-BAB9-75B35ED04551}"/>
 				<GameParameter Name="L2_Intensity" ID="{A694C5A6-C769-4EA6-AE53-1E415BE01452}"/>
 				<GameParameter Name="L3_Intensity" ID="{633CD616-E896-4E35-A8AF-C892B9443EB0}"/>
-				<GameParameter Name="BandRec_Guitar" ID="{6E7784C5-27B3-4DEC-B93D-A9BEC0C6ACD9}"/>
-				<GameParameter Name="BandRec_Vox" ID="{2CA1A091-0411-4B1A-B51C-051B32BFD7AF}"/>
-				<GameParameter Name="Lunaria_Dream_Intensity" ID="{CED2CE43-6FE3-4A9C-A3DF-2E102572D8AD}"/>
-				<GameParameter Name="Lunaria_Greed_Level" ID="{295C9130-884A-4203-AB8B-C088EBD0FAC3}"/>
-				<GameParameter Name="Magpie_Effigy_UpperWalkway_Distance" ID="{3CFED079-AE81-4B82-BCC2-371DB2F5B2A4}"/>
-				<GameParameter Name="Magpie_Harbour_Cliff_Height" ID="{3798EE31-9A56-47C7-9E42-2F0F0D987EAC}"/>
-				<GameParameter Name="Magpie_Harbour_Sea_Distance" ID="{23B85136-1754-4672-96C4-97E88FD890D2}"/>
-				<GameParameter Name="Magpie_Waves" ID="{F836E56D-ECDF-4EC4-A956-C4C5319CBB48}"/>
-				<GameParameter Name="Maldives_Server_Corruption" ID="{A9B9AA06-C2E5-420E-AE6E-FE0670184566}"/>
-				<GameParameter Name="Maldives_Verticality" ID="{99D642BD-1A20-4BB6-8255-6DAEAE597CEE}"/>
-				<GameParameter Name="Maldives_WindIntensity" ID="{8A753052-8A70-49E4-BCDF-4EDB86D62F69}"/>
-				<GameParameter Name="Marrakesh_RTPC_ATT_FireAlarm" ID="{825B63BD-1F57-4D9B-B337-EB14246D019A}"/>
-				<GameParameter Name="Marrakesh_RTPC_Canvas_Flapping_Speed" ID="{7EDB44F2-C71D-4407-BCC8-BD61ECC8B012}"/>
-				<GameParameter Name="Marrakesh_RTPC_Distant_Crowd_State" ID="{05976C40-A7D0-4FC0-8828-0C08F7B8F5DD}"/>
-				<GameParameter Name="Marrakesh_RTPC_FortuneTellerAmbVolume" ID="{FBBDDC9E-042C-4933-9BCC-5D18B95B99C9}"/>
-				<GameParameter Name="Marrakesh_RTPC_MegaphoneToggle" ID="{AA1F2E20-909A-4738-9EE7-ABFC0868EB5A}"/>
-				<GameParameter Name="Marrakesh_RTPC_PoolLamp_ATT" ID="{FF613F21-EDDA-4490-8F33-2A0963A4279B}"/>
-				<GameParameter Name="Marrakesh_RTPC_Wind_Intensity" ID="{8C560E65-D40E-4BA8-BC62-1AC53D4DA1C5}"/>
-				<GameParameter Name="PreArrival_Intensity" ID="{9F7E2276-4CEB-4271-B54A-62A6FBC03F77}"/>
 				<GameParameter Name="Prop_DropThrow" ID="{C61B22C4-6CC2-4C99-9FB1-3EF2876390A0}"/>
 				<GameParameter Name="RTCP_Generic_0to1" ID="{06F1B970-2017-40E5-9A35-FE3F521E3EFD}"/>
 				<GameParameter Name="RTCP_GUI_ButtonHold_CooldownVolume" ID="{69F99A4A-D9AC-437B-A595-FEEDA6EF0C0C}"/>
@@ -54,8 +35,6 @@
 				<GameParameter Name="RTPC_ActorMixerFader_FootstepsAndFoley" ID="{C24750F9-9A7F-486A-B2A4-B95ED4CDC77B}"/>
 				<GameParameter Name="RTPC_ActorMixerFader_InWorld_Objects" ID="{B71002C4-2688-493E-8D97-433C09BAEC71}"/>
 				<GameParameter Name="RTPC_ActorMixerFader_Location" ID="{92100A42-D3B2-4E60-AB92-D4D4D37DB483}"/>
-				<GameParameter Name="RTPC_Aftermath_GreyLayer" ID="{DC4D0A41-5780-46DB-B5EA-BEFB6458AECD}"/>
-				<GameParameter Name="RTPC_AfterMath_L1_Intensity" ID="{95A82C81-D6A2-4C22-8B50-8E2DEEFAF41C}"/>
 				<GameParameter Name="RTPC_AMB_FashionShowMusic_MomentLevel" ID="{523362E8-4C5B-477D-8855-353325744D71}"/>
 				<GameParameter Name="RTPC_AMB_FashionShowMusicLevel" ID="{A0CA22D0-2287-478B-BFCB-BFC053B3958F}"/>
 				<GameParameter Name="RTPC_AMB_Gain" ID="{7A9B1995-25B9-445A-BBD6-5D44F2EDA10E}"/>
@@ -65,7 +44,6 @@
 				<GameParameter Name="RTPC_AMH_Footsteps_GroundM" ID="{C3D3CDCE-442E-406D-8DE7-F29F8ED4B013}"/>
 				<GameParameter Name="RTPC_AMH_InteractiveProps_Looped" ID="{9E8C16E9-3844-4588-8630-140F205BDCD1}"/>
 				<GameParameter Name="RTPC_AMH_StaticProps_Looped" ID="{5999152E-ECB6-45C4-80EE-452D0A4A72D8}"/>
-				<GameParameter Name="RTPC_AtriumEvacWalla_Volume" ID="{EFD1E0BE-C23B-44D2-BC91-91B107058F33}"/>
 				<GameParameter Name="RTPC_Attention_HiT" ID="{786C2064-C7A8-4B30-9372-F8A8A9EA6005}"/>
 				<GameParameter Name="RTPC_Attention_Release_HiT" ID="{D0BF59D6-A0FE-4AB6-9B29-54E4F8B68C73}"/>
 				<GameParameter Name="RTPC_AttentionVolMod" ID="{D8D047F0-A1BA-4E7D-B702-C30B290945F0}"/>
@@ -150,41 +128,19 @@
 				<GameParameter Name="RTPC_DoorOpenPitch" ID="{96E765C7-2410-474C-ABC2-63C3AE942985}"/>
 				<GameParameter Name="RTPC_DriversLounge_DrinkingGame" ID="{722D23D1-4792-4DD5-A54C-B6CE0636FDB7}"/>
 				<GameParameter Name="RTPC_DriversLounge_NextDoorMusic" ID="{B5396045-8586-47BF-AD0B-1FC7E264FDED}"/>
-				<GameParameter Name="RTPC_Dugong_Slapping_Loudness" ID="{37C0D673-D10F-47B5-B6DB-3013CABB147B}"/>
-				<GameParameter Name="RTPC_Dugong_VillageMusic_Level" ID="{666FA5F4-3092-40FF-995D-3959D35E6D88}"/>
 				<GameParameter Name="RTPC_DynamicMusicAtt" ID="{5E336BE5-DAF7-4F82-804E-99BA831ABA13}"/>
-				<GameParameter Name="RTPC_EdwardsConfrontation_L2_Intensity" ID="{68730C3A-7E43-447D-A749-B5A26FF1A9EE}"/>
-				<GameParameter Name="RTPC_EdwardsFreeRoam_L2_Intensity" ID="{FEF67717-C7F9-40A0-8579-391A50E3AC05}"/>
 				<GameParameter Name="RTPC_Effects_ATT" ID="{3B6817BE-6E1C-4D64-9531-CF6F4DDD172F}"/>
 				<GameParameter Name="RTPC_EntranceProximity" ID="{2025D269-F96D-4341-B5DA-73D8FA8DFB0D}"/>
-				<GameParameter Name="RTPC_Evergreen_Center_Gearwall_Pickup" ID="{CA7B7027-287D-4562-937A-3C9CA3EDCA3F}"/>
-				<GameParameter Name="RTPC_Evergreen_Distance_MissionCentre" ID="{CF6CFB5E-FA46-4BAF-8F7D-067D88053AF2}"/>
-				<GameParameter Name="RTPC_Evergreen_Safe_Distance" ID="{CC61AE8A-2ADE-4AEB-9E04-01BE61885FD3}"/>
 				<GameParameter Name="RTPC_FashionShowCrowd_AmbientLevel" ID="{F3144BAE-EF1B-443C-9630-92FF51401498}"/>
 				<GameParameter Name="RTPC_FireAlarm_Outside" ID="{E3F6CC26-45A9-460A-9EFB-247B16E02209}"/>
 				<GameParameter Name="RTPC_Firework_Level" ID="{3AC81711-9BF3-4601-8FBB-CD62DF6839A6}"/>
 				<GameParameter Name="RTPC_FOL_ChokeGame_Fraction" ID="{FDADADEF-ACA8-408A-B1DA-E2ADFD17B457}"/>
-				<GameParameter Name="RTPC_Fox_Chillout_Evil_Mask" ID="{D065984A-4E3C-4C78-A67F-6CD6AC9D01FE}"/>
-				<GameParameter Name="RTPC_Fox_DeafIntensity" ID="{5F4DED7E-7338-46BF-AF54-BE3783B7F4B1}"/>
-				<GameParameter Name="RTPC_Fox_Debug_ClickVol" ID="{85B8DF3E-96FC-4F61-A3C8-C9327E8112BD}"/>
-				<GameParameter Name="RTPC_Fox_Fumigation_Unit" ID="{8D91B122-D45B-477A-AEF1-DB0ACE67CD6C}"/>
-				<GameParameter Name="RTPC_Fox_Intro_GasStationAmb" ID="{32B47D20-C1FE-4EF9-A735-C3D5831D409F}"/>
-				<GameParameter Name="RTPC_Fox_MA_VeryClose" ID="{64526CDF-3CDF-4517-BD0E-36A4FAD0E393}"/>
-				<GameParameter Name="RTPC_Fox_TechnoHaptics" ID="{9A56FC70-1C57-4086-BCF5-86A7C939D95C}"/>
-				<GameParameter Name="RTPC_Fox_TechnoVol" ID="{71C48C73-B640-4984-8980-7E01BA2A12A0}"/>
-				<GameParameter Name="RTPC_Frangipani_Assassin_Mad" ID="{A958073C-A043-44DF-8351-E740355C921A}"/>
-				<GameParameter Name="RTPC_Frangipani_Danger_Tension" ID="{822C075E-4B3B-4125-B7CB-EA2BEE815F72}"/>
-				<GameParameter Name="RTPC_Frangipani_Distance_Assassin" ID="{A7AEEE99-9B4E-4ADE-86A9-453A97C381DD}"/>
-				<GameParameter Name="RTPC_Frangipani_Music_Intensity_L2" ID="{B4125058-1043-4956-8FCA-FB7423A1A9E5}"/>
-				<GameParameter Name="RTPC_Frangipani_Music_Intensity_L3" ID="{3E11995B-1B25-4F95-AEBC-13FCE497E3A8}"/>
 				<GameParameter Name="RTPC_FS_HM_Adaptive_Mix" ID="{9094110D-2D45-4B99-8DBF-6254223B711C}"/>
 				<GameParameter Name="RTPC_FS_HM_Adaptive_Mix_EQ" ID="{D4E77667-808A-4E36-8716-CDB14724E527}"/>
 				<GameParameter Name="RTPC_FS_Sweeteners_CharacterStancePitch" ID="{060BA2BD-445D-4FDD-9F63-B6FBA8D4E481}"/>
 				<GameParameter Name="RTPC_FS_Sweeteners_CharacterStanceVol" ID="{7048F1BF-023C-4979-A041-B65E0E51378A}"/>
 				<GameParameter Name="RTPC_FS_Sweeteners_SetupVol" ID="{F9D9FA40-F192-4D33-8324-D88232D16DDE}"/>
 				<GameParameter Name="RTPC_GasValvePressure" ID="{C17AE0EA-BA5E-4E53-8DC0-4310DC2E77B0}"/>
-				<GameParameter Name="RTPC_Gecko_Helicopter_Proximity" ID="{A21E3743-0E83-4053-A783-6F6DEA2EC8F5}"/>
-				<GameParameter Name="RTPC_Gecko_Sun_Intensity" ID="{AD84DD72-FADF-40E4-95B7-8488E92726A4}"/>
 				<GameParameter Name="RTPC_Generic_ATT" ID="{7D997E16-4EBF-4BD0-A48A-40B0D7FF721F}"/>
 				<GameParameter Name="RTPC_Generic_ATT_200to200" ID="{07D28256-C31E-4D75-8BA3-24EC6CD44E92}"/>
 				<GameParameter Name="RTPC_Generic_LPF" ID="{29C17A60-D018-4E57-BBAF-5E08C086A616}"/>
@@ -197,33 +153,12 @@
 				<GameParameter Name="RTPC_Hawk_ChopperRotorSpeed" ID="{66EFC0F3-EF24-4A08-B159-3C5FC47DE7B0}"/>
 				<GameParameter Name="RTPC_HeatWarningSapienza" ID="{66DB8975-D527-4DEC-AE74-F1E44CDD7E67}"/>
 				<GameParameter Name="RTPC_HIPS_TargetDistance_LP_Volume" ID="{603FBEF2-BD0F-4BC5-BF90-51485A405334}"/>
-				<GameParameter Name="RTPC_Hollyhock_Light_Glare_Intensity" ID="{307847CE-2EAD-4C77-8428-2107BF74DC32}"/>
-				<GameParameter Name="RTPC_Hollyhock_Music_Intensity_L2" ID="{9972FA2C-3210-4948-B0FA-D4309C194087}"/>
-				<GameParameter Name="RTPC_Hollyhock_Music_Intensity_L3" ID="{99EA2043-D4E1-4518-885D-5119D457ACDB}"/>
-				<GameParameter Name="RTPC_Hollyhock_Saferoom" ID="{513E4F9E-704B-43C8-99F0-8344763B0814}"/>
-				<GameParameter Name="RTPC_Hollyhock_Timer_Wave1" ID="{4B87D723-570D-45BB-91E9-7BD87AAD26BD}"/>
 				<GameParameter Name="RTPC_HUD_Volume" ID="{A018AE5D-F72B-46F3-A12C-A0AB5E3BD701}"/>
 				<GameParameter Name="RTPC_Indoor_Winddraft_Audibility" ID="{8BBCB14E-9656-4DE1-9FC1-CB73ABE0A193}"/>
 				<GameParameter Name="RTPC_IngameMusic_PM_Att" ID="{E56EC2DC-455A-4BBC-B122-D6CEF634D1DC}"/>
 				<GameParameter Name="RTPC_InteractiveProps_ATT" ID="{92D3B555-1F29-4403-9BB6-1DE8E2310A93}"/>
-				<GameParameter Name="RTPC_ISL_CeremonyChoir_Intensity" ID="{323DA9B2-3BB3-49E6-B259-AC464BCB066F}"/>
-				<GameParameter Name="RTPC_Kai_DialogueLevelMeter_Enabler" ID="{E3561D08-8C47-4AE4-AC26-898FE4464117}"/>
-				<GameParameter Name="RTPC_Kai_Reboot" ID="{9D68C162-0438-4A7A-9C61-5DC7BC829703}"/>
-				<GameParameter Name="RTPC_Kai_Stressed" ID="{1BA0AED3-6A18-4248-B4EB-CF00A2A60914}"/>
 				<GameParameter Name="RTPC_Level" ID="{F7BDA36D-E00B-4013-98EE-73B4C0D239A3}"/>
 				<GameParameter Name="RTPC_LFO_DistantRaceUndulation" ID="{BB88E6F0-CC63-46D7-956F-6EF0CACDF349}"/>
-				<GameParameter Name="RTPC_Llama_Dry_Heat_Intensity" ID="{D5E64A4A-BBEE-42E0-A4D2-8AA8B1F65644}"/>
-				<GameParameter Name="RTPC_Llama_Dry_Heat_Intensity_Slow" ID="{E7FB87E8-3211-4325-B7C9-317069BF05FC}"/>
-				<GameParameter Name="RTPC_Llama_Dry_Heat_Modulator" ID="{D07BE0AB-5374-4F75-9428-0B7E8C38BC28}"/>
-				<GameParameter Name="RTPC_Llama_Dry_Heat_Slow_Bass" ID="{A66F6E49-62F8-49BA-8EEF-C0258DBD5670}"/>
-				<GameParameter Name="RTPC_Llama_Fumigation_Unit" ID="{882D2AA2-C147-4473-A192-6C6AB47510E2}"/>
-				<GameParameter Name="RTPC_Llama_Music_CustomMutingVol" ID="{445CDD0A-58E3-46B7-BFDB-39434A8926E9}"/>
-				<GameParameter Name="RTPC_Llama_Music_DistanceToDiana" ID="{9882B4CF-4DFE-4CE1-AD1E-1193D179DED6}"/>
-				<GameParameter Name="RTPC_Llama_Music_YatesRevealATT" ID="{1407D372-75F5-41CE-894D-A66576118838}"/>
-				<GameParameter Name="RTPC_Llama_Tangoband_Reverb" ID="{B252150F-6CBA-4E69-9B67-F823B8ACC3FA}"/>
-				<GameParameter Name="RTPC_Llama_Wind_Speed" ID="{1B755903-030B-49F7-A244-1EFFFD3215DC}"/>
-				<GameParameter Name="RTPC_Llama_Winery_Beast_Pump" ID="{865A93D0-3E35-4CBB-BCD2-C4F00A43F1BD}"/>
-				<GameParameter Name="RTPC_Llama_Winery_Beast_Speed" ID="{49A2CD9F-CD94-40C6-8A28-7507B2113564}"/>
 				<GameParameter Name="RTPC_LOC_BG" ID="{54746A35-DF50-43D0-9C4F-67BCA165EBDF}"/>
 				<GameParameter Name="RTPC_LOC_POS_Looped" ID="{3EE551D4-5DE2-44EE-8CE4-C54EA998C03E}"/>
 				<GameParameter Name="RTPC_LOC_POS_SingleShots" ID="{7BF1125A-1E66-4B79-A7AD-76220F19BCDD}"/>
@@ -233,8 +168,6 @@
 				<GameParameter Name="RTPC_MA_Normal_Intensity" ID="{1FFC8E76-AFE5-490D-B8A2-C7E8031A52C0}"/>
 				<GameParameter Name="RTPC_MA_Panic_Intensity" ID="{4949B09A-3DCE-4CB0-A5D1-6CA2986E680C}"/>
 				<GameParameter Name="RTPC_MA_Scary_Intensity" ID="{4B38D95F-1663-4A75-B5FE-2628ACDC307B}"/>
-				<GameParameter Name="RTPC_MaelstromScan" ID="{D36C11CA-1A33-4B6B-8D3B-F5B2E00B25F9}"/>
-				<GameParameter Name="RTPC_Miami_RedArrows_Angle" ID="{D40ADA78-9D44-4802-BFEB-61596429B868}"/>
 				<GameParameter Name="RTPC_MicrophoneBus_PASpeaker_Volume" ID="{681FCCE6-761A-4BC3-A128-4D90346B99B1}"/>
 				<GameParameter Name="RTPC_Mix_Gamestart" ID="{5ECBF724-D29F-4099-A079-686A1ACEDD67}"/>
 				<GameParameter Name="RTPC_MMH_AMB_BG_Loops" ID="{892C2D8F-AA6B-4072-821C-B1C93DB3B3AF}"/>
@@ -247,8 +180,6 @@
 				<GameParameter Name="RTPC_MonG_Freewaydistance" ID="{7D494780-5EF7-4158-9755-E231B9DBAA2A}"/>
 				<GameParameter Name="RTPC_MusicGate0to1" ID="{8DC75CB0-F4B4-48C4-9970-18F37A5811FC}"/>
 				<GameParameter Name="RTPC_NoCrowdSystemParameter" ID="{478A3878-098D-469A-A2C3-5ACA4CF52C6F}"/>
-				<GameParameter Name="RTPC_PARIS_AnnouncerDucking" ID="{EEF846B3-A92C-48FA-8802-DAC19629B00C}"/>
-				<GameParameter Name="RTPC_PARIS_FashionShowSpeech_MuteCrowdWalla" ID="{1826C6B3-7B2C-4003-BF81-424C9309B02A}"/>
 				<GameParameter Name="RTPC_PeekAcceleration" ID="{1A5A330A-99AD-4AB6-A39C-0D2943440DF8}"/>
 				<GameParameter Name="RTPC_PeekValue" ID="{E0AE279D-07C1-4DFF-ABE3-9FB784C98872}"/>
 				<GameParameter Name="RTPC_PianoSurrealisticLevel" ID="{3B0347AC-8D4C-46AA-B462-96D1A56C5A71}"/>
@@ -260,15 +191,7 @@
 				<GameParameter Name="RTPC_Props_FreezerOpen" ID="{52564204-12A1-4F82-BD85-993F11E28F46}"/>
 				<GameParameter Name="RTPC_Props_MusicBoxSpeed" ID="{53F84ED4-C2E2-4612-9244-7AB05A678155}"/>
 				<GameParameter Name="RTPC_RainX_BG_Intensity" ID="{10BE5D76-2DAD-443D-AA76-9DF2B261AECB}"/>
-				<GameParameter Name="RTPC_Rat_Abstract_City" ID="{C621C1B1-43F1-4F1E-8525-D695F0326307}"/>
-				<GameParameter Name="RTPC_Rat_Drone_Speed" ID="{CC04E7C4-EF25-40D9-B7EC-B1052D79BEB6}"/>
-				<GameParameter Name="RTPC_Rat_Facility_Light_Glare" ID="{AB3CAF0E-FBD2-451B-9A32-2E08F1A5E991}"/>
-				<GameParameter Name="RTPC_Rat_Music_CloseToCoreIntensity" ID="{5892DE5D-3D39-4D44-B2CA-FEFC3DD8DBEC}"/>
-				<GameParameter Name="RTPC_Rat_Neonlight_RedGreen" ID="{3492DF0D-F01F-454D-9A8E-3F0B6EC1CDED}"/>
 				<GameParameter Name="RTPC_Robot_Dialogue_Enabler" ID="{87221FC9-EFA9-4A8F-8DC5-C599F3D907D3}"/>
-				<GameParameter Name="RTPC_RowdyCrowd_Intensity" ID="{8DAE1F2A-55D4-4EE1-9833-1504DF697DDA}"/>
-				<GameParameter Name="RTPC_Sapienza_CafeTower" ID="{07825CA8-60D9-4B7A-BBF2-FCCCFA1D408C}"/>
-				<GameParameter Name="RTPC_Sapienza_MIX_Att" ID="{4AF74998-5A26-4ECA-ABA1-87E97563FFA1}"/>
 				<GameParameter Name="RTPC_SelfieStick_Scan" ID="{E980ABAA-C5B6-48B2-81B5-13643BD4365A}"/>
 				<GameParameter Name="RTPC_SendFader_DialogueReverb" ID="{42172E42-2126-486F-8A32-AA648B309988}"/>
 				<GameParameter Name="RTPC_SendFader_SFX_Player_Focus" ID="{6EC74674-7B45-4200-B22D-1E411D5F3AFC}"/>
@@ -292,64 +215,20 @@
 				<GameParameter Name="RTPC_SniperChallengeActive" ID="{9E128FB0-85E5-42D3-B634-919FF57655EC}"/>
 				<GameParameter Name="RTPC_SniperChallengeScopeLookAt" ID="{2C5441C5-0C26-4166-8422-51A43DF7A126}"/>
 				<GameParameter Name="RTPC_SniperSlowDown" ID="{11820965-2F3B-4601-8336-7BBD4AFE1C8A}"/>
-				<GameParameter Name="RTPC_SODERS_Malfunction" ID="{0270C824-0E17-4276-A559-FE5CE2676C5B}"/>
 				<GameParameter Name="RTPC_SoundGroupActivate" ID="{3D1EDC08-33BA-417D-874D-E8F76FE625EE}"/>
 				<GameParameter Name="RTPC_StaticProps_ATT" ID="{B6DABB3C-256D-4E5A-933C-BAF3D065B62D}"/>
 				<GameParameter Name="RTPC_StingerVol" ID="{AF0F34E6-72B9-4A39-B19A-AFEAD066CB5C}"/>
 				<GameParameter Name="RTPC_Thunder_Intensity" ID="{E2165D82-4920-45EE-A703-4A2A954459F4}"/>
 				<GameParameter Name="RTPC_Tree_Bird_Intensity" ID="{B22C9D7F-9B74-42B1-B17E-06CE72EAFC4C}"/>
-				<GameParameter Name="RTPC_VertigoIntensity" ID="{7C0BF8E2-8648-4637-96CE-C02D76623C98}"/>
-				<GameParameter Name="RTPC_Vineyard_DangerIntensity" ID="{EF2D013F-EC62-458C-A835-811461514F2D}"/>
-				<GameParameter Name="RTPC_VR_FootstepBooster" ID="{50FA074C-6893-4E66-9E1E-114A22B20C7E}"/>
-				<GameParameter Name="RTPC_VR_HandlerPan" ID="{97FE37A5-AA37-421C-B957-2305CDDB9515}"/>
-				<GameParameter Name="RTPC_VR_HandSpeed" ID="{93F224D0-F11F-415D-B399-C380E1870857}"/>
-				<GameParameter Name="RTPC_VR_HandSpeed_PunchSlap" ID="{E536A171-4FC0-4AB3-95ED-F673EE0C0FA1}"/>
-				<GameParameter Name="RTPC_VR_LoudnessBooster" ID="{FA68C59C-71E4-4A37-AF48-FB2312B184A7}"/>
-				<GameParameter Name="RTPC_VR_Megaphone_Boost" ID="{2F79E26F-2AC1-40F8-B878-266FD7F5909E}"/>
-				<GameParameter Name="RTPC_VR_Mode_Enabled" ID="{9369B894-2525-46E0-8C5D-B6DF8994D306}"/>
 				<GameParameter Name="RTPC_Weapons_HPF" ID="{1D0B8949-32B7-4EFD-A071-116DB6064462}"/>
 				<GameParameter Name="RTPC_Weapons_LPF" ID="{76145B00-FF3C-4090-B91E-3786E0162C72}"/>
 				<GameParameter Name="RTPC_Weapons_Reload_Att" ID="{B53D8D48-CDA3-4194-9D59-AE1E8A78459F}"/>
 				<GameParameter Name="RTPC_WeaponShotDucking" ID="{74710793-21F7-427A-8583-7D30EA3216DA}"/>
 				<GameParameter Name="RTPC_WindDistortionVolume" ID="{09D00F04-9430-4EFC-A380-189C565059F3}"/>
-				<GameParameter Name="RTPC_Wolv_Music_GraveStone_Intensity" ID="{0494D89F-E9A9-49DF-882F-531FA7D3F005}"/>
-				<GameParameter Name="RTPC_Wolv_Music_MilitaryTalk_Intensity" ID="{142C44BA-3D85-482D-A4D5-CC66535513D6}"/>
-				<GameParameter Name="RTPC_Wolv_Music_Office_Custom_02_Intensity" ID="{68CE61CB-2B6D-43FB-AD69-E42ECEBFCB55}"/>
-				<GameParameter Name="RTPC_Wolv_Music_Office_Custom_Intensity" ID="{CA6E6633-3FA8-4A09-83A0-8B6C80BC0D91}"/>
-				<GameParameter Name="RTPC_Wolverine_Freeze_Stage" ID="{94B9505D-E79F-43EB-976D-D1CC9E3CAA34}"/>
-				<GameParameter Name="RTPC_Wolverine_Nightmare_VO_EQ" ID="{54074286-7DB9-4991-ADD4-3AFF5DF9BEED}"/>
-				<GameParameter Name="RTPC_Wolverine_Nightmare_VO_LPF" ID="{A3317DEF-9C56-420A-9C51-1168B59A65B8}"/>
-				<GameParameter Name="RTPC_Wolverine_Tunnel" ID="{7D3F9BCC-8651-4A6C-B179-2226CAD8D857}"/>
 				<GameParameter Name="Weapon_Instance_Pitch" ID="{9CF21C21-F9C9-4841-9296-72BA8E22502A}"/>
-				<GameParameter Name="Z_110" ID="{A4F73616-2636-4027-9D51-14EE4510E5D6}"/>
-				<GameParameter Name="Z_111" ID="{7BFF7D19-AA75-4857-9D42-CFE6B7068DCC}"/>
-				<GameParameter Name="Z_112" ID="{FD2CC335-E4A3-4107-8459-A9AEEEB0FC7E}"/>
 				<GameParameter Name="SFX_InteractiveProps" ID="{AC29E940-28F4-40E9-B6AE-BF051D976F1A}"/>
-				<GameParameter Name="SlumDetective_Intense_VOL" ID="{D86952D8-D925-45B1-AEF7-3C1D542CBF34}"/>
 				<GameParameter Name="Stealth_Heartbeat_Vol" ID="{363D4586-EAF4-4C30-A69A-0A9B5433D8C4}"/>
-				<GameParameter Name="TEST_RTPC_CarClusterCount" ID="{37FAE6C5-96CF-4702-A331-5591998A6F87}"/>
-				<GameParameter Name="TEST_RTPC_CarPitchInit" ID="{0E529FC6-317A-4A29-9E78-396E6AC6899D}"/>
-				<GameParameter Name="TEST_RTPC_CarPitchMod" ID="{2496AF2B-AAFB-4036-B25B-8132D35B184A}"/>
-				<GameParameter Name="TEST_RTPC_MiamiCar_EQ_Freq" ID="{BA652191-0A9A-43AE-877E-BEFA6D337318}"/>
-				<GameParameter Name="TEST_RTPC_MiamiCar_EQ_Gain" ID="{A5A44771-C0A8-4B05-868C-269731C71FFB}"/>
-				<GameParameter Name="TEST_RTPC_MiamiCar_EQ_Q" ID="{AACD8EDD-F542-42FA-82C3-2AA8FEB75C1B}"/>
 				<GameParameter Name="Volume_Level" ID="{8625C1F6-709F-4F9A-9CF7-140C28DA4FED}"/>
-				<GameParameter Name="Bangkok_VoltageRegulator" ID="{AC3FEB12-7FB0-44DE-B78A-F163D30E9D68}"/>
-				<GameParameter Name="Hippo_Colombia_Opportunity_Submarine_Rev" ID="{70A55B7D-F85C-4605-8D36-36F4E7186ADF}"/>
-				<GameParameter Name="Colombia_Cave_WaterfallDistance" ID="{8DAD2A0F-EB0A-41C4-B568-C27BA09FF3B1}"/>
-				<GameParameter Name="Colombia_ConstructionSite_Waterfall_BridgeVolume" ID="{803F6182-BCD2-466D-B28D-095F9F2A9934}"/>
-				<GameParameter Name="Colombia_Cave_Waterfall_Occlusion" ID="{89ED8878-1D90-4E05-846A-7D4108D500C8}"/>
-				<GameParameter Name="Colombia_CocoaFields_River_Speed" ID="{0779E5A7-425F-4808-98FC-73882868FFD7}"/>
-				<GameParameter Name="Colombia_DrummersHouse_Music_Distance" ID="{3C61DE1E-B160-44DC-9805-F01BEF5DA35E}"/>
-				<GameParameter Name="Colombia_SecretCave_PressurePads" ID="{F2B80D26-A46F-4B13-9755-41F06552A92B}"/>
-				<GameParameter Name="Colombia_Worker_Activity" ID="{8197E798-B18A-4D4D-A779-743C4DBD725C}"/>
-				<GameParameter Name="Colombia_ConstructionSite_WaterfallDistance" ID="{C1A3D73C-D66D-4104-9FE7-C8D5172A7641}"/>
-				<GameParameter Name="Colombia_CocoaField_WaterfallDistance" ID="{525BD2A5-A640-49C6-B379-E22D065E4CB4}"/>
-				<GameParameter Name="Colombia_ConcreteMixerState" ID="{0002D119-4ABC-4431-8C52-A43C0AAA1154}"/>
-				<GameParameter Name="Colombia_Cocoa_Movement" ID="{9EC4DE40-E3A1-4133-BC9C-61400F3F2F62}"/>
-				<GameParameter Name="Colorado_WindInTrees_Volume" ID="{D1F2F0A3-BFCF-42A2-97E9-2757CAE2CBFF}"/>
-				<GameParameter Name="CC_Gecko_CurtainIntensity" ID="{65394DD1-B598-4710-BFB0-BEBA67B9838D}"/>
-				<GameParameter Name="CC_Gecko_StairCaseIntensity" ID="{F45076AA-FD18-4D8E-8913-876EC7574D10}"/>
 			</ChildrenList>
 		</WorkUnit>
 	</GameParameters>

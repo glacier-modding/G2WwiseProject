@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F57E4C3A-E75D-4017-B40E-7F729F0A0EB0}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Gecko" ID="{F57E4C3A-E75D-4017-B40E-7F729F0A0EB0}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="CC_Gecko_CurtainIntensity" ID="{65394DD1-B598-4710-BFB0-BEBA67B9838D}"/>
+				<GameParameter Name="CC_Gecko_StairCaseIntensity" ID="{F45076AA-FD18-4D8E-8913-876EC7574D10}"/>
+				<GameParameter Name="RTPC_Gecko_Helicopter_Proximity" ID="{A21E3743-0E83-4053-A783-6F6DEA2EC8F5}"/>
+				<GameParameter Name="RTPC_Gecko_Sun_Intensity" ID="{AD84DD72-FADF-40E4-95B7-8488E92726A4}"/>
+				<GameParameter Name="RTPC_VertigoIntensity" ID="{7C0BF8E2-8648-4637-96CE-C02D76623C98}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

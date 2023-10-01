@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9C20260A-6C91-4C5A-866E-ACBC5679FC8F}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Miami" ID="{9C20260A-6C91-4C5A-866E-ACBC5679FC8F}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="RTPC_Miami_RedArrows_Angle" ID="{D40ADA78-9D44-4802-BFEB-61596429B868}"/>
+				<GameParameter Name="TEST_RTPC_MiamiCar_EQ_Freq" ID="{BA652191-0A9A-43AE-877E-BEFA6D337318}"/>
+				<GameParameter Name="TEST_RTPC_CarClusterCount" ID="{37FAE6C5-96CF-4702-A331-5591998A6F87}"/>
+				<GameParameter Name="TEST_RTPC_MiamiCar_EQ_Gain" ID="{A5A44771-C0A8-4B05-868C-269731C71FFB}"/>
+				<GameParameter Name="TEST_RTPC_CarPitchInit" ID="{0E529FC6-317A-4A29-9E78-396E6AC6899D}"/>
+				<GameParameter Name="TEST_RTPC_MiamiCar_EQ_Q" ID="{AACD8EDD-F542-42FA-82C3-2AA8FEB75C1B}"/>
+				<GameParameter Name="TEST_RTPC_CarPitchMod" ID="{2496AF2B-AAFB-4036-B25B-8132D35B184A}"/>
+				<GameParameter Name="RTPC_RowdyCrowd_Intensity" ID="{8DAE1F2A-55D4-4EE1-9833-1504DF697DDA}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

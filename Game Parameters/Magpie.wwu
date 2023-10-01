@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0A58DBF1-085F-49D2-A238-4AC9E0AB7FFC}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Magpie" ID="{0A58DBF1-085F-49D2-A238-4AC9E0AB7FFC}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="Magpie_Harbour_Sea_Distance" ID="{23B85136-1754-4672-96C4-97E88FD890D2}"/>
+				<GameParameter Name="Magpie_Waves" ID="{F836E56D-ECDF-4EC4-A956-C4C5319CBB48}"/>
+				<GameParameter Name="Magpie_Harbour_Cliff_Height" ID="{3798EE31-9A56-47C7-9E42-2F0F0D987EAC}"/>
+				<GameParameter Name="Magpie_Effigy_UpperWalkway_Distance" ID="{3CFED079-AE81-4B82-BCC2-371DB2F5B2A4}"/>
+				<GameParameter Name="RTPC_ISL_CeremonyChoir_Intensity" ID="{323DA9B2-3BB3-49E6-B259-AC464BCB066F}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E4CBD30C-DC4F-4A0A-828A-A8A0D4CC1E2B}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Colorado" ID="{E4CBD30C-DC4F-4A0A-828A-A8A0D4CC1E2B}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="Colorado_WindInTrees_Volume" ID="{D1F2F0A3-BFCF-42A2-97E9-2757CAE2CBFF}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

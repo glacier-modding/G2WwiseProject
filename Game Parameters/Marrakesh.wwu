@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E7DA343A-2AC8-43C6-889A-BB7FB2592FDE}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Marrakesh" ID="{E7DA343A-2AC8-43C6-889A-BB7FB2592FDE}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="Marrakesh_RTPC_FortuneTellerAmbVolume" ID="{FBBDDC9E-042C-4933-9BCC-5D18B95B99C9}"/>
+				<GameParameter Name="Marrakesh_RTPC_Wind_Intensity" ID="{8C560E65-D40E-4BA8-BC62-1AC53D4DA1C5}"/>
+				<GameParameter Name="Marrakesh_RTPC_MegaphoneToggle" ID="{AA1F2E20-909A-4738-9EE7-ABFC0868EB5A}"/>
+				<GameParameter Name="Marrakesh_RTPC_Canvas_Flapping_Speed" ID="{7EDB44F2-C71D-4407-BCC8-BD61ECC8B012}"/>
+				<GameParameter Name="Marrakesh_RTPC_PoolLamp_ATT" ID="{FF613F21-EDDA-4490-8F33-2A0963A4279B}"/>
+				<GameParameter Name="Marrakesh_RTPC_ATT_FireAlarm" ID="{825B63BD-1F57-4D9B-B337-EB14246D019A}"/>
+				<GameParameter Name="Marrakesh_RTPC_Distant_Crowd_State" ID="{05976C40-A7D0-4FC0-8828-0C08F7B8F5DD}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

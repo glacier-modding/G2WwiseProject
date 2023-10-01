@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{77AEE6AD-2DCF-4E12-A305-FBC38728C0F3}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Hokkaido" ID="{77AEE6AD-2DCF-4E12-A305-FBC38728C0F3}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="RTPC_SODERS_Malfunction" ID="{0270C824-0E17-4276-A559-FE5CE2676C5B}"/>
+				<GameParameter Name="RTPC_Kai_DialogueLevelMeter_Enabler" ID="{E3561D08-8C47-4AE4-AC26-898FE4464117}"/>
+				<GameParameter Name="RTPC_Kai_Stressed" ID="{1BA0AED3-6A18-4248-B4EB-CF00A2A60914}"/>
+				<GameParameter Name="RTPC_Kai_Reboot" ID="{9D68C162-0438-4A7A-9C61-5DC7BC829703}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

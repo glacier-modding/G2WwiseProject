@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D6428119-0171-4D4F-B536-802BBA8927CA}" SchemaVersion="97">
+	<GameParameters>
+		<WorkUnit Name="VR_Parameters" ID="{D6428119-0171-4D4F-B536-802BBA8927CA}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="RTPC_VR_Mode_Enabled" ID="{9369B894-2525-46E0-8C5D-B6DF8994D306}"/>
+				<GameParameter Name="RTPC_VR_HandlerPan" ID="{97FE37A5-AA37-421C-B957-2305CDDB9515}"/>
+				<GameParameter Name="RTPC_VR_LoudnessBooster" ID="{FA68C59C-71E4-4A37-AF48-FB2312B184A7}"/>
+				<GameParameter Name="RTPC_VR_HandSpeed" ID="{93F224D0-F11F-415D-B399-C380E1870857}"/>
+				<GameParameter Name="RTPC_VR_Megaphone_Boost" ID="{2F79E26F-2AC1-40F8-B878-266FD7F5909E}"/>
+				<GameParameter Name="RTPC_VR_HandSpeed_PunchSlap" ID="{E536A171-4FC0-4AB3-95ED-F673EE0C0FA1}"/>
+				<GameParameter Name="RTPC_VR_FootstepBooster" ID="{50FA074C-6893-4E66-9E1E-114A22B20C7E}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

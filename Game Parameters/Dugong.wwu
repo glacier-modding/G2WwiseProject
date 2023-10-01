@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{7E79B628-CCB8-48FE-9D13-CC5E521A72C9}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Dugong" ID="{7E79B628-CCB8-48FE-9D13-CC5E521A72C9}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="RTPC_Dugong_Slapping_Loudness" ID="{37C0D673-D10F-47B5-B6DB-3013CABB147B}"/>
+				<GameParameter Name="RTPC_Dugong_VillageMusic_Level" ID="{666FA5F4-3092-40FF-995D-3959D35E6D88}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

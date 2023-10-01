@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9D39E444-6282-42CE-8766-DC46AF8E4549}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Sapienza" ID="{9D39E444-6282-42CE-8766-DC46AF8E4549}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="RTPC_Sapienza_CafeTower" ID="{07825CA8-60D9-4B7A-BBF2-FCCCFA1D408C}"/>
+				<GameParameter Name="RTPC_Sapienza_MIX_Att" ID="{4AF74998-5A26-4ECA-ABA1-87E97563FFA1}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

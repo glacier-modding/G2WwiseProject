@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{7B878386-8DBB-4E56-B5A9-82462198A13E}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Lunaria" ID="{7B878386-8DBB-4E56-B5A9-82462198A13E}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="Lunaria_Dream_Intensity" ID="{CED2CE43-6FE3-4A9C-A3DF-2E102572D8AD}"/>
+				<GameParameter Name="Lunaria_Greed_Level" ID="{295C9130-884A-4203-AB8B-C088EBD0FAC3}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

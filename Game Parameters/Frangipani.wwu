@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E3851CD3-B4BE-4370-B8A5-2FF10F550182}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Frangipani" ID="{E3851CD3-B4BE-4370-B8A5-2FF10F550182}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="RTPC_Frangipani_Distance_Assassin" ID="{A7AEEE99-9B4E-4ADE-86A9-453A97C381DD}"/>
+				<GameParameter Name="RTPC_Frangipani_Music_Intensity_L2" ID="{B4125058-1043-4956-8FCA-FB7423A1A9E5}"/>
+				<GameParameter Name="RTPC_Frangipani_Assassin_Mad" ID="{A958073C-A043-44DF-8351-E740355C921A}"/>
+				<GameParameter Name="RTPC_Frangipani_Music_Intensity_L3" ID="{3E11995B-1B25-4F95-AEBC-13FCE497E3A8}"/>
+				<GameParameter Name="RTPC_Frangipani_Danger_Tension" ID="{822C075E-4B3B-4125-B7CB-EA2BEE815F72}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

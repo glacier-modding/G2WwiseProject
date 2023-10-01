@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2A4C91DB-5AE9-439A-906A-622F0EF82BDF}" SchemaVersion="97" RootDocumentID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}">
+	<GameParameters>
+		<WorkUnit Name="Bulldog" ID="{2A4C91DB-5AE9-439A-906A-622F0EF82BDF}" OwnerID="{B71F6FCF-D648-4C12-8069-3E8BA2B424BB}" PersistMode="Nested">
+			<ChildrenList>
+				<GameParameter Name="RTPC_Aftermath_GreyLayer" ID="{DC4D0A41-5780-46DB-B5EA-BEFB6458AECD}"/>
+				<GameParameter Name="RTPC_AfterMath_L1_Intensity" ID="{95A82C81-D6A2-4C22-8B50-8E2DEEFAF41C}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>
